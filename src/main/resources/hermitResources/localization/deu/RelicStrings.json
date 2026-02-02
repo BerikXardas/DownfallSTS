@@ -19,7 +19,7 @@
     "DESCRIPTIONS": [
       "Die ersten #b",
       "Du kannst in diesem Kampf keine Tränke mehr benutzen.",
-      " Male bei denen ein Trank im Kampf benutzt wird, erhältst du einen zufälligen Trank. Du kannst maximal #b",
+      " Male, bei denen ein Trank im Kampf benutzt wird, erhältst du einen zufälligen Trank. Du kannst maximal #b",
       " Tränke pro Kampf benutzen."
     ]
   },
@@ -63,7 +63,7 @@
     "NAME": "Verkohlter Handschuh",
     "FLAVOR": "In Teilen des Handschus glüht immer noch unheimliche Asche.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen #rFluch ziehst #b",
+      "Erhalte immer, wenn du einen #rFluch ziehst, #b",
       " #yElan."
     ]
   },

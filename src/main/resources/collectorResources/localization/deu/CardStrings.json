@@ -514,7 +514,7 @@
   },
   "collector:GremlinNobCard": {
     "NAME": "Gremlin-Aristo",
-    "DESCRIPTION": "Erhalte immer wenn du eine Fertigkeit spielst !M! *Elan."
+    "DESCRIPTION": "Erhalte immer, wenn du eine Fertigkeit spielst, !M! *Elan."
   },
   "collector:GremlinWizardCard": {
     "NAME": "Gremlinzauberer",
@@ -687,7 +687,7 @@
   },
   "collector:ShootingStar": {
     "NAME": "Sternschnuppe",
-    "DESCRIPTION": "Das erste Mal im Zug wenn du einen Angriff collector:opferst, erhalte eine Kopie des Angriffs. Sie kostet 0 bis du sie spielst."
+    "DESCRIPTION": "Wenn du das erste Mal im Zug einen Angriff collector:opferst, erhalte eine Kopie des Angriffs. Sie kostet 0 bis du sie spielst."
   },
   "collector:CollectorCard": {
     "NAME": "Ouroboros",

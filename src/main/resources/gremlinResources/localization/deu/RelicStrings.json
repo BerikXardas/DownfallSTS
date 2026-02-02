@@ -3,7 +3,7 @@
     "NAME": "Einwandfreie Muskeln",
     "FLAVOR": "Glorreich.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du #yStärke erhältst die gleiche Anzahl an #ytemporären #yTP [REMOVE_SPACE]. NL Beginne jeden Kampf mit #b1 #yStärke."
+      "Erhalte immer, wenn du #yStärke erhältst, die gleiche Anzahl an #ytemporären #yTP [REMOVE_SPACE]. NL Beginne jeden Kampf mit #b1 #yStärke."
     ]
   },
   "Gremlin:FragmentationGrenade": {
@@ -39,7 +39,7 @@
     "FLAVOR": "Je schöner das Symbol der Macht, desto häufiger wird es gestohlen.",
     "DESCRIPTIONS": [
       "Ersetzt ",
-      ". NL Das erste Mal wenn du im Zug den Nachziehstapel mischst, ziehe #b1 Karte, erhalte [E] , und #ywechsle zum nächsten Gremlin."
+      ". NL Wenn du das erste Mal im Zug den Nachziehstapel mischst, ziehe #b1 Karte, erhalte [E] , und #ywechsle zum nächsten Gremlin."
     ]
   },
   "Gremlin:GremlinMask": {
@@ -79,7 +79,7 @@
     "NAME": "Kleine Statue",
     "FLAVOR": "Es ist überraschend, wie gut sie funktioniert.",
     "DESCRIPTIONS": [
-      "Das erste Mal im Kampf, wenn ein Gremlin sterben würde, werden seine TP stattdessen um #b75% der max. TP geheilt.",
+      "Wenn das erste Mal im Kampf ein Gremlin sterben würde, werden seine TP stattdessen um #b75% der max. TP geheilt.",
       "Bereits in diesem Kampf aktiviert."
     ]
   },
@@ -87,7 +87,7 @@
     "NAME": "Diebesgut",
     "FLAVOR": "„Vermaledeite, diebische Gremlins!“",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du #ywechselst ein #yEcho einer zufälligen farblosen Karte. NL Der Händler erhält zu Beginn jedes Kampfes #b",
+      "Erhalte immer, wenn du #ywechselst [REMOVE_SPACE], ein #yEcho einer zufälligen farblosen Karte. NL Der Händler erhält zu Beginn jedes Kampfes #b",
       " #yStärke [REMOVE_SPACE].",
       "Ihr diebischen, verdammten Tunichtgute!",
       "Feiges Ungezifer!",

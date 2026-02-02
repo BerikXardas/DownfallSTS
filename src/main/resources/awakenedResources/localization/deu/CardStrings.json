@@ -109,7 +109,7 @@
   },
   "awakened:ChosenVerse": {
     "NAME": "Auserwählter Vers",
-    "DESCRIPTION": "Die nächsten !M! Male an denen du in diesem Zug einen nicht-Angriff spielst, ziehe eine Karte und erhalte !B! Block."
+    "DESCRIPTION": "Die nächsten !M! Male, an denen du in diesem Zug einen nicht-Angriff spielst, ziehe eine Karte und erhalte !B! Block."
   },
   "awakened:SoulStrike": {
     "NAME": "Seelenschlag",
@@ -199,7 +199,7 @@
   },
   "awakened:MoonlitVision": {
     "NAME": "Mondfinsternis",
-    "DESCRIPTION": "Erhalte [E] das erste Mal, an dem du im Zug einen *Zauber spielst."
+    "DESCRIPTION": "Erhalte [E] , wenn du das erste Mal im Zug einen *Zauber spielst."
   },
   "awakened:Rebirth": {
     "NAME": "Wiedergeburt",
@@ -229,7 +229,7 @@
   },
   "awakened:EclipseEmbrace": {
     "NAME": "Sonnenfinsternis",
-    "DESCRIPTION": "Immer, wenn du eine Leere *erschöpfst, ziehe im nächsten Zug eine Karte und erhalte [E] ."
+    "DESCRIPTION": "Immer wenn du eine Leere *erschöpfst, ziehe im nächsten Zug eine Karte und erhalte [E] ."
   },
   "awakened:Clutch": {
     "NAME": "Umklammern",
@@ -352,7 +352,7 @@
   },
   "awakened:Primacy": {
     "NAME": "Vorrang",
-    "DESCRIPTION": "Ziehe das erste Mal, an dem du im Zug Stärke erhältst, eine Karte.",
+    "DESCRIPTION": "Ziehe das erste Mal, wenn du im Zug Stärke erhältst, eine Karte.",
     "UPGRADE_DESCRIPTION": "Ziehe die ersten !M! Male, an denen du im Zug Stärke erhältst, eine Karte."
   },
   "awakened:Daggerstorm": {

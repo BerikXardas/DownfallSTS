@@ -39,7 +39,7 @@
     "NAME": "Gezinkter Würfel",
     "FLAVOR": "Mit Käse gefüllt.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn eine Karte #ysneckomod:geirrt wird #b",
+      "Erhalte immer, wenn eine Karte #ysneckomod:geirrt wird, #b",
       " #yBlock [REMOVE_SPACE]."
     ]
   },

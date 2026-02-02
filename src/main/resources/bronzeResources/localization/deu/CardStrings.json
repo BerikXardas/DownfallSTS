@@ -334,7 +334,7 @@
   },
   "bronze:ItsAFeature": {
     "NAME": "Es ist ein Feature",
-    "DESCRIPTION": "Erhalte immer wenn du einen Status ziehst oder *erschöpfst !M! Block."
+    "DESCRIPTION": "Erhalte immer, wenn du einen Status ziehst oder *erschöpfst, !M! Block."
   },
   "bronze:Library": {
     "NAME": "Bibliothek",
@@ -417,8 +417,8 @@
   },
   "bronze:Repulsor": {
     "NAME": "Validieren",
-    "DESCRIPTION": "Wenn du im Zug das erste Mal einen Status oder Fluch ziehst, erschöpfe ihn und ziehe eine Karte.",
-    "UPGRADE_DESCRIPTION": "Wenn du im Zug das erste Mal einen Status oder Fluch ziehst, erschöpfe ihn und ziehe eine Karte."
+    "DESCRIPTION": "Wenn du das erste Mal im Zug einen Status oder Fluch ziehst, erschöpfe ihn und ziehe eine Karte.",
+    "UPGRADE_DESCRIPTION": "Wenn du das erste Mal im Zug einen Status oder Fluch ziehst, erschöpfe ihn und ziehe eine Karte."
   },
   "bronze:Return": {
     "NAME": "Rückgängig",

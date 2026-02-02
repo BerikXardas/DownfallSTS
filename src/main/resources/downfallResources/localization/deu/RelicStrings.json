@@ -541,7 +541,7 @@
     "NAME": "Entweihter Schlüssel",
     "FLAVOR": "Wurde aus gutem Grund weggesperrt.",
     "DESCRIPTIONS": [
-      "Erhalte [E] wenn du das erste Mal im Zug einen #rFluch ziehst. NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, nimm eine #rVerletzung [REMOVE_SPACE]."
+      "Erhalte [E] , wenn du das erste Mal im Zug einen #rFluch ziehst. NL Immer wenn du eine Truhe (außer Bosstruhen) öffnest, nimm eine #rVerletzung [REMOVE_SPACE]."
     ]
   },
   "downfall:ExtraCursedBell": {

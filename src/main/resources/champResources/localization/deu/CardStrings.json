@@ -312,7 +312,7 @@
   },
   "champ:DancingMaster": {
     "NAME": "Tanzchampion",
-    "DESCRIPTION": "Das erste Mal, wenn du im Zug einen champ:Abschluss spielst, ziehe 1 Karte und erhalte [E] ."
+    "DESCRIPTION": "Wenn du das erste Mal im Zug einen champ:Abschluss spielst, ziehe 1 Karte und erhalte [E] ."
   },
   "champ:StrikeOfGenius": {
     "NAME": "Genieschlag",

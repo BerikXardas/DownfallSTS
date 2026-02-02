@@ -18,7 +18,7 @@
   "bronze:Feature": {
     "NAME": "Es ist ein Feature",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen #rStatus ziehst oder #yerschöpfst #b",
+      "Erhalte immer, wenn du einen #rStatus ziehst oder #yerschöpfst [REMOVE_SPACE], #b",
       " #yBlock [REMOVE_SPACE]."
     ]
   },

@@ -37,7 +37,7 @@
 },
 "hermit:BigShotPower": {
         "NAME": "Rauchender Colt",
-        "DESCRIPTIONS": ["Immer wenn du ein #yVolltreffer erzielst, fügt dein nächster Angriff #b", " mehr Schaden zu."]
+        "DESCRIPTIONS": ["Immer wenn du ein #yVolltreffer erzielst, erhältst du #b", " #yElan [REMOVE_SPACE]."]
 },
 "hermit:BrawlPower": {
         "NAME": "Gewaltbereit",

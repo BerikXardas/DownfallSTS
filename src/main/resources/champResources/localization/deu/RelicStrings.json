@@ -7,10 +7,10 @@
     ]
   },
   "champ:BlackKnightHelmet": {
-    "NAME": "Helm des Herausforderers",
+    "NAME": "Schwarzer Helm",
     "FLAVOR": "Nur eine Fleischwunde.",
     "DESCRIPTIONS": [
-      "Das erste Mal wenn du im Kampf die entsprechende #yHaltung annimst: NL #bchamp:Defensiv : Erhalte #b2 #yGeschicklichkeit und verliere #b1 #yStärke [REMOVE_SPACE]. NL #rchamp:Offensiv : Erhalte #b2 #yStärke und verliere #b1 #yGeschicklichkeit [REMOVE_SPACE]."
+      "Wenn du das erste Mal im Kampf die entsprechende #yHaltung annimst: NL #ychamp:Defensiv [REMOVE_SPACE]: #gErhalte #b2 #yGeschicklichkeit und #rverliere #b1 #yStärke [REMOVE_SPACE]. NL #ychamp:Offensiv [REMOVE_SPACE]: #gErhalte #b2 #yStärke und #rverliere #b1 #yGeschicklichkeit [REMOVE_SPACE]."
     ]
   },
   "champ:Barbells": {
@@ -34,7 +34,7 @@
     "FLAVOR": "Conglaturation!! You are the greatest winner.",
     "DESCRIPTIONS": [
       "Ersetzt ",
-      " [REMOVE_SPACE].[] NL Das erste Mal wenn du im Zug einen #ychamp:Abschluss spielst, ziehe #b",
+      " [REMOVE_SPACE].[] NL Wenn du das erste Mal im Zug einen #ychamp:Abschluss spielst, ziehe #b",
       " Karten und nimm eine zufällige #yHaltung an."
     ]
   },
@@ -104,7 +104,7 @@
     "NAME": "Phantomhand",
     "FLAVOR": "Manche Siege bleiben bei dir.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du eine #yHaltung annimmst ein #ygremlin:Echo einer Basis #ySchlag oder #yVerteidigen Karte. Es kostet #b0 [REMOVE_SPACE]."
+      "Erhalte immer, wenn du eine #yHaltung annimmst, ein #ygremlin:Echo einer Basis #ySchlag oder #yVerteidigen Karte. Es kostet #b0 [REMOVE_SPACE]."
     ]
   },
   "champ:LiftRelic": {

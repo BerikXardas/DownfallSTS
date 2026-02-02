@@ -156,7 +156,7 @@
   "downfall:SilentShivTimeEaterPower": {
     "NAME": "Sack voller Messer",
     "DESCRIPTIONS": [
-      "Wenn du in einem Zug das erste Mal eine Karte ausspielst, die #b2 oder mehr kostet, erhält die Stille 2 #yMesser [REMOVE_SPACE]."
+      "Wenn du das erste Mal im Zug eine Karte ausspielst, die #b2 oder mehr kostet, erhält die Stille 2 #yMesser [REMOVE_SPACE]."
     ]
   },
   "downfall:SilentDelayedWraithPower": {
@@ -170,7 +170,7 @@
   "downfall:NeowBagOfKnives": {
     "NAME": "Sack voller Messer",
     "DESCRIPTIONS": [
-      "Wenn du in einem Zug das erste Mal eine Karte ausspielst, die #b2 oder mehr kostet, erleide zweimal #b4 Schaden."
+      "Wenn du das erste Mal im Zug eine Karte ausspielst, die #b2 oder mehr kostet, erleide zweimal #b4 Schaden."
     ]
   },
   "downfall:SilentMirrorImagePower": {
@@ -428,7 +428,7 @@
   "downfall:NeowDistracting": {
     "NAME": "Ablenkend",
     "DESCRIPTIONS": [
-      "Wenn du in einem Zug das erste Mal Niau Schaden durch einen #yAngriff zufügst, verlierst du #b1 [E] im nächsten Zug."
+      "Wenn du das erste Mal im Zug Niau Schaden durch einen #yAngriff zufügst, verlierst du #b1 [E] im nächsten Zug."
     ]
   },
   "downfall:NextTurnPowerPower": {

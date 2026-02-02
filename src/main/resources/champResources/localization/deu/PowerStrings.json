@@ -54,7 +54,7 @@
   "champ:WorseRupturePower": {
     "NAME": "Endlose Wut",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du während deines Zuges TP verlierst #b",
+      "Erhalte immer, wenn du während deines Zuges TP verlierst, #b",
       " #ytemporäre #yStärke [REMOVE_SPACE]."
     ]
   },

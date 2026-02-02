@@ -292,7 +292,7 @@
   "collector:GremlinNobCard": {
     "NAME": "Erzürnen",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du eine #yFertigkeit spielst #b",
+      "Erhalte immer, wenn du eine #yFertigkeit spielst, #b",
       " #yElan [REMOVE_SPACE]."
     ]
   },
@@ -312,7 +312,7 @@
   "collector:ShootingStar": {
     "NAME": "Sternschnuppe",
     "DESCRIPTIONS": [
-      "Das erste Mal im Zug wenn du einen #yAngriff als #yOpfergabe anbietest, nimm eine Kopie des Angriffs auf die Hand. Sie kostet #b0 bis du sie spielst.",
+      "Wenn du das erste Mal im Zug einen #yAngriff als #yOpfergabe anbietest, nimm eine Kopie des Angriffs auf die Hand. Sie kostet #b0 bis du sie spielst.",
       "Die ersten #b",
       " Male im Zug, an denen du einen #yAngriff als #yOpfergabe anbietest, nimm jeweils eine Kopie des Angriffs auf die Hand. Sie kosten #b0 bis du sie spielst."
     ]

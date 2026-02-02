@@ -119,14 +119,14 @@
   "Slimebound:SelfFormingGooPower": {
     "NAME": "Wiedervereinigung",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen Schleim absorbierst #b",
+      "Erhalte immer, wenn du einen Schleim absorbierst, #b",
       " #yStärke [REMOVE_SPACE]."
     ]
   },
   "Slimebound:SelfFormingGooPowerPlus": {
     "NAME": "Wiedervereinigung+",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen Schleim absorbierst #b",
+      "Erhalte immer, wenn du einen Schleim absorbierst, #b",
       " #yGeschicklichkeit [REMOVE_SPACE]."
     ]
   },
@@ -191,9 +191,9 @@
   "Slimebound:GluttonyPower": {
     "NAME": "Völlerei",
     "DESCRIPTIONS": [
-      "Nimm das erste Mal wenn du im Zug #yKonsumierst einen #yWabbel auf die Hand.",
-      "Nimm das ersten ",
-      " Male wenn du im Zug #yKonsumierst einen #yWabbel auf die Hand.",
+      "Erhalte beim ersten #yKonsum im Zug einen einen #yWabbel.",
+      "Erhalte die ersten ",
+      " Male im Zug, an denen du #ykonsumierst [REMOVE_SPACE], einen #yWabbel [REMOVE_SPACE].",
       " NL Dieser Effekt kann in diesem Zug noch #b",
       " Mal aktiviert werden.",
       " Mal aktiviert werden.",
@@ -203,9 +203,9 @@
   "Slimebound:GluttonyPowerUpgraded": {
     "NAME": "Völlerei+",
     "DESCRIPTIONS": [
-      "Nimm zu Beginn jedes Zuges #b",
-      " zufällige #yverbesserte #yWabbel Karte auf die Hand.",
-      " zufällige #yverbesserte #yWabbel Karten auf die Hand."
+      "Erhalte zu Beginn jedes Zuges #b",
+      " zufällige #yverbesserte #yWabbel Karte.",
+      " zufällige #yverbesserte #yWabbel Karten."
     ]
   },
   "Slimebound:PoisonThornsPower": {
@@ -284,9 +284,9 @@
   "Slimebound:FirmFortitudePower": {
     "NAME": "Fühle unseren Schmerz",
     "DESCRIPTIONS": [
-      "Das nächste Mal wenn du in deinem Zug Schaden erleiden oder TP verlieren würdest, nimmt stattdessen ein zufälliger Gegner den Schaden",
+      "Das nächste Mal, wenn du in deinem Zug Schaden erleiden oder TP verlieren würdest, nimmt stattdessen ein zufälliger Gegner den Schaden",
       "Das nächsten #b",
-      " Male an denen du in deinem Zug Schaden erleiden oder TP verlieren würdest, nimmt stattdessen ein zufälliger Gegner den Schaden.",
+      " Male, an denen du in deinem Zug Schaden erleiden oder TP verlieren würdest, nimmt stattdessen ein zufälliger Gegner den Schaden.",
       " NL Dieser Effekt kann in diesem Zug noch #b",
       " Mal aktiviert werden.",
       " Mal aktiviert werden.",
@@ -499,16 +499,16 @@
   "Slimebound:GoopArmorPower": {
     "NAME": "Glibberrüstung",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du #ykonsumierst #b",
+      "Erhalte immer, wenn du #ykonsumierst [REMOVE_SPACE], #b",
       " #yBlock."
     ]
   },
   "Slimebound:CommandOnPlayPower": {
     "NAME": "Schleimgeneral",
     "DESCRIPTIONS": [
-      "#yKommandiere das nächste Mal wenn du eine Karte ausspielst.",
-      "#yKommandiere das nächsten ",
-      " Male an denen du eine Karte ausspielst."
+      "#yKommandiere das nächste Mal, wenn du eine Karte ausspielst.",
+      "#yKommandiere die nächsten ",
+      " Male, an denen du eine Karte ausspielst."
     ]
   },
   "Slimebound:GoopPerTurnPower": {

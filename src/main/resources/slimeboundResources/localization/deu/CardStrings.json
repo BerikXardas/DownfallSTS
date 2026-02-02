@@ -85,8 +85,8 @@
   },
   "Slimebound:Gluttony": {
     "NAME": "Völlerei",
-    "DESCRIPTION": "Nimm das erste Mal wenn du im Zug slimeboundmod:Konsumierst einen *Wabbel auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Nimm das erste Mal wenn du im Zug slimeboundmod:Konsumierst einen *Wabbel auf die Hand."
+    "DESCRIPTION": "Erhalte bei deinem ersten slimeboundmod:Konsum im Zug einen *Wabbel.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte bei deinem ersten slimeboundmod:Konsum im Zug einen *Wabbel."
   },
   "Slimebound:GoopSpray": {
     "NAME": "Klebriger Nebel",
@@ -309,7 +309,7 @@
   },
   "Slimebound:SpikyOuterGoop": {
     "NAME": "Glibberrüstung",
-    "DESCRIPTION": "Erhalte immer wenn du slimeboundmod:Konsumierst !M! Block."
+    "DESCRIPTION": "Erhalte immer, wenn du slimeboundmod:Konsumierst, !M! Block."
   },
   "Slimebound:Split": {
     "NAME": "Abspalten",

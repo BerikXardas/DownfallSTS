@@ -4,7 +4,7 @@
     "FLAVOR": "Ein an mich gebundener Beschützer.",
     "DESCRIPTIONS": [
       "Erhalte #b",
-      " #yBlock wenn das erste Mal im Zug eine #yGeisterflamme #yhexamod:entzündet wird."
+      " #yBlock [REMOVE_SPACE], wenn das erste Mal im Zug eine #yGeisterflamme #yhexamod:entzündet wird."
     ]
   },
   "hexamod:TheBrokenSeal": {
@@ -45,7 +45,7 @@
     "NAME": "Recycler",
     "FLAVOR": "Eines Tages werde ich auch recycelt.",
     "DESCRIPTIONS": [
-      "Wenn das erste Mal im Kampf eine #yflüchtige Karte #yerschöpft, die weder ein #yStatus noch ein #rFluch ist, nimm eine Kopie dieser Karte auf die Hand, die #b0 kostet bis du sie spielst."
+      "Wenn das erste Mal im Kampf eine #yflüchtige Karte #yerschöpft [REMOVE_SPACE], die weder ein #yStatus noch ein #rFluch ist, nimm eine Kopie dieser Karte auf die Hand, die #b0 kostet bis du sie spielst."
     ]
   },
   "hexamod:MatchstickCase": {

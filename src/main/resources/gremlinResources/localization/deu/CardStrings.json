@@ -43,7 +43,7 @@
 
   "Gremlin:BurlyBlow": {
     "NAME": "Strammer Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Wiederhole das in Höhe des Schwach des Gegners."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Wiederhole das ein Mal pro Schwach des Gegners."
   },
 
   "Gremlin:CatScratch": {
@@ -86,7 +86,7 @@
 
   "Gremlin:Dazzle": {
     "NAME": "Schillern",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL gremlin:Stiehl 2 Stärke wenn du mindestens 3 gremlin:Esprit hast. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL gremlin:Stiehl 2 Stärke, wenn du mindestens 3 gremlin:Esprit hast. NL Erschöpft."
   },
 
   "Gremlin:Defend": {
@@ -122,7 +122,7 @@
 
   "Gremlin:Exacerbate": {
     "NAME": "Tortur",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Der Gegner verliert jedes Mal wenn er Schwach erleidet !M! TP. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Der Gegner verliert jedes Mal, wenn er Schwach erleidet, !M! TP. NL Erschöpft."
   },
 
   "Gremlin:FairyDust": {
@@ -210,8 +210,8 @@
 
   "Gremlin:GremlinOffensive": {
     "NAME": "Gremlinoffensive",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte eine *Gremlinoffensive. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte eine *Gremlinoffensive+. NL Erschöpft."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte *Gremlinoffensive. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte *Gremlinoffensive+. NL Erschöpft."
   },
 
   "Gremlin:GremlinToss": {
@@ -249,7 +249,7 @@
 
   "Gremlin:Jeer": {
     "NAME": "Sticheln",
-    "DESCRIPTION": "Füge !D! Schaden zu. Erhalte !M! expansioncontent:temporäre_TP wenn der Gegner einen Debuff hat."
+    "DESCRIPTION": "Füge !D! Schaden zu. Erhalte !M! expansioncontent:temporäre_TP, wenn der Gegner einen Debuff hat."
   },
 
   "Gremlin:Kablamo": {
@@ -275,12 +275,12 @@
 
   "Gremlin:Mockery": {
     "NAME": "Posse",
-    "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block wenn der Gegner mindestens 3 Schwach hat."
+    "DESCRIPTION": "Wende !M! Schwach an. NL Erhalte !B! Block, wenn der Gegner mindestens 3 Schwach hat."
   },
 
   "Gremlin:Necromancy": {
     "NAME": "Nekromantie",
-    "DESCRIPTION": "Erfordert 3 gremlin:Esprit. NL Verbrauche deinen gremlin:Esprit um einen zufälligen Gremlin mit !M! TP wiederzubeleben. Erschöpft.",
+    "DESCRIPTION": "Erfordert 3 gremlin:Esprit. NL Verbrauche deinen gremlin:Esprit, um einen zufälligen Gremlin mit !M! TP wiederzubeleben. Erschöpft.",
     "EXTENDED_DESCRIPTION": ["Nicht genug Esprit.", "Niemand ist tot.", "Kein Platz mehr."]
   },
 
@@ -296,8 +296,8 @@
 
   "Gremlin:PartyStick": {
     "NAME": "Leuchtstab",
-    "DESCRIPTION": "Flüchtig. Unspielbar. NL Erhalte [E] wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
-    "UPGRADE_DESCRIPTION": "Unspielbar. NL Erhalte [E] wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
+    "DESCRIPTION": "Flüchtig. Unspielbar. NL Erhalte [E] , wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
+    "UPGRADE_DESCRIPTION": "Unspielbar. NL Erhalte [E] , wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
     "EXTENDED_DESCRIPTION": ["Niemand darf mit dem Leuchtstab spielen."]
   },
 
@@ -320,7 +320,7 @@
   "Gremlin:Pinprick": {
     "NAME": "Nadelstich",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe eine Karte. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte ein expansioncontent:Echo dieser Karte wenn du sie ziehst. NL Füge !D! Schaden zu. NL Ziehe eine Karte. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Wenn du diese Karte ziehst, erhalte ein expansioncontent:Echo. NL Füge !D! Schaden zu. NL Ziehe eine Karte. NL Erschöpft."
   },
 
   "Gremlin:Polish": {
@@ -345,7 +345,7 @@
 
   "Gremlin:ProperTools": {
     "NAME": "Adäquate Waffe",
-    "DESCRIPTION": "Füge !D! Schaden zu. Erhalte !M! *Schutz Karten wenn der Gegner angreifen will. Erhalte anderenfalls !M! Messer."
+    "DESCRIPTION": "Füge !D! Schaden zu. Erhalte !M! *Schutz Karten, wenn der Gegner angreifen will. Erhalte anderenfalls !M! Messer."
   },
 
   "Gremlin:RageBreak": {
@@ -382,8 +382,8 @@
 
   "Gremlin:SecondVolley": {
     "NAME": "Zweite Salve",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer für jede Karte, die du in diesem Zug gespielt hast. (Maximal bis deine Hand voll ist)",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer+ für jede Karte, die du in diesem Zug gespielt hast. (Maximal bis deine Hand voll ist).",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer für jede Karte, die du in diesem Zug gespielt hast (Maximal bis deine Hand voll ist).",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer+ für jede Karte, die du in diesem Zug gespielt hast (Maximal bis deine Hand voll ist).",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Karte gespielt.)",
@@ -398,7 +398,7 @@
 
   "Gremlin:ShankStone": {
     "NAME": "Schaftstein",
-    "DESCRIPTION": "Unspielbar. NL Erhalte immer wenn du diese Karte ziehst !M! Messer.",
+    "DESCRIPTION": "Unspielbar. NL Erhalte immer, wenn du diese Karte ziehst, !M! Messer.",
     "EXTENDED_DESCRIPTION": ["Ich kann diese Karte nicht ausspielen."]
   },
 
@@ -421,7 +421,7 @@
 
   "Gremlin:ShowStopper": {
     "NAME": "Höhepunkt",
-    "DESCRIPTION": "Kann nur gespielt werden wenn du GENAU 7 gremlin:Esprit hast. NL Füge ALLEN Gegnern !M! Mal !D! Schaden zu.",
+    "DESCRIPTION": "Kann nur gespielt werden, wenn du GENAU 7 gremlin:Esprit hast. NL Füge ALLEN Gegnern !M! Mal !D! Schaden zu.",
     "EXTENDED_DESCRIPTION": ["Es Fehlt noch an Spannung.", "Das Timing wurde verpasst."]
   },
 
@@ -496,7 +496,7 @@
   "Gremlin:Whiz": {
     "NAME": "Energie sammeln",
     "DESCRIPTION": "Erhalte !M! gremlin:Esprit. Erhalte im nächsten Zug den *Ultimativen *Stoß. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !M! gremlin:Esprit. Erhalte im nächsten Zug den *Ultimativen *Stoß+."
+    "UPGRADE_DESCRIPTION": "Erhalte !M! gremlin:Esprit. Erhalte im nächsten Zug den *Ultimativen *Stoß+. NL Erschöpft."
   },
 
   "Gremlin:Wizardry": {

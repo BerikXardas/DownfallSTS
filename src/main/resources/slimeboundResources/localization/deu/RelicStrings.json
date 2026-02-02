@@ -3,8 +3,8 @@
     "NAME": "Herz aus Glibber",
     "FLAVOR": "Ich fühle mich funky.",
     "DESCRIPTIONS": [
-      "Heile immer wenn du #yslimeboundmod:konsumierst #b",
-      " TP - heilt bis zu #b",
+      "Heile immer, wenn du #yslimeboundmod:konsumierst [REMOVE_SPACE], #b",
+      " TP. Heilt bis zu #b",
       " TP pro Kampf."
     ]
   },
@@ -13,8 +13,8 @@
     "FLAVOR": "Das Geheimnis der Schleimwesen.",
     "DESCRIPTIONS": [
       "Ersetzt ",
-      " [REMOVE_SPACE].[] NL Heile immer wenn du #yslimeboundmod:konsumierst #b",
-      " TP - heilt zu #b",
+      " [REMOVE_SPACE].[] NL Heile immer, wenn du #yslimeboundmod:konsumierst [REMOVE_SPACE], #b",
+      " TP. Heilt zu #b",
       " TP pro Kampf."
     ]
   },
@@ -22,7 +22,7 @@
     "NAME": "Schleimschwanz",
     "FLAVOR": "Ein falscher, komplett in Schleim umhüllter Schwanz, um Gegner während des Kampfes hereinzulegen.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen Schleimuntertanen #yslimeboundmod:abspaltest #b",
+      "Erhalte immer, wenn du einen Schleimuntertanen #yslimeboundmod:abspaltest [REMOVE_SPACE], #b",
       " #yBlock [REMOVE_SPACE]."
     ]
   },
@@ -37,7 +37,7 @@
     "NAME": "Slime the Spire",
     "FLAVOR": "ALWAYS Split.  Why is this a relic? Cause I can't figure out how to add the custom mod to the list of active mods UI!",
     "DESCRIPTIONS": [
-      "#bCustom #bRun #bModifier NL Alle Gegner spal #b50% HP."
+      "#bSpezial #bRun #bModifier NL Alle Gegner spalten sich bei #b50% TP."
     ]
   },
   "Slimebound:ScrapOozeRelic": {
@@ -46,8 +46,8 @@
     "DESCRIPTIONS": [
       "#yslimeboundmod:Spalte zu Beginn des Kampfes einen #ySchrottschleim #yab - er kann wiederbelebt werden. Füttere ihn am Lagerfeuer um seinen Schaden zu ändern: #y+2 für #ySeltene [REMOVE_SPACE], #g+1 für #gUngewöhnliche [REMOVE_SPACE], #b-1 für #bGewöhnliche [REMOVE_SPACE], #r-2 für #rFlüche [REMOVE_SPACE].",
       "Entferne eine Karte aus deinem Deck und ändere den Schaden des Schrottschleims.",
-      "Keine Karte für den Schrottschleim.",
-      "Schrott"
+      "Keine Karte für den Schrottschleim übrig.",
+      "Verschrotten"
     ]
   },
   "Slimebound:GreedOozeRelic": {
@@ -75,15 +75,15 @@
     "NAME": "Schleimiger Schädel",
     "FLAVOR": "Ein Snecko-Schädel in miserablem Zustand. Schmutzig und schleimig haftet der Dreck daran wie Klebstoff.",
     "DESCRIPTIONS": [
-      "Immer wenn #yslimeboundmod:Glibber angewendet wird, wird #b",
-      " #yslimeboundmod:Glibber mehr angewendet."
+      "Immer wenn du #yslimeboundmod:Glibber anwendest, wende #b",
+      " #yslimeboundmod:Glibber mehr an."
     ]
   },
   "Slimebound:MaxSlimesRelic": {
     "NAME": "Jeremias' Banner",
     "FLAVOR": "Du und welche Armee?",
     "DESCRIPTIONS": [
-      "Beginne jeden Kampf mit #b1 Schleim-Slot mehr und #yslimeboundmod:spalte einen zufälligen Schleim #yab."
+      "Beginne jeden Kampf mit #b1 Schleim-Slot mehr und #yslimeboundmod:spalte einen zufälligen Schleim #yab [REMOVE_SPACE]."
     ]
   },
   "Slimebound:SelfDamagePreventRelic": {
@@ -96,7 +96,7 @@
   },
   "Slimebound:TarBlob": {
     "NAME": "Teerblob",
-    "FLAVOR": "Die unschöne Sorte Schleim.",
+    "FLAVOR": "Eine besonders schmutzige Schleimsorte.",
     "DESCRIPTIONS": [
       "Verliere zu Beginn deines Kampfes #b1 Schleim-Slot. NL Erhalte in deinem Zug [E] ."
     ]
@@ -105,7 +105,7 @@
     "NAME": "Schleimwürfel",
     "FLAVOR": "Hey, er klebt an deinem Körper.",
     "DESCRIPTIONS": [
-      "Erhalte immer wenn du einen #yStatus oder #rFluch ziehst #b",
+      "Erhalte immer, wenn du einen #yStatus oder #rFluch ziehst, #b",
       " #yBlock [REMOVE_SPACE]."
     ]
   }

@@ -3,7 +3,7 @@
     "NAME": "Einwandfreie Muskeln",
     "FLAVOR": "Glorreich.",
     "DESCRIPTIONS": [
-      "Erhalte immer, wenn du #yStärke erhältst, die gleiche Anzahl an #ytemporären #yTP [REMOVE_SPACE]. NL Beginne jeden Kampf mit #b1 #yStärke."
+      "Erhalte immer, wenn du #yStärke erhältst, die gleiche Anzahl an #ytemporären #yTP [REMOVE_SPACE]. NL Beginne jeden Kampf mit #b1 #yStärke [REMOVE_SPACE]."
     ]
   },
   "Gremlin:FragmentationGrenade": {

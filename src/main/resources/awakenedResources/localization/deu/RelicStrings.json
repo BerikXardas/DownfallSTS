@@ -9,7 +9,7 @@
   },
   "awakened:ShreddedDoll": {
     "NAME": "Zerfetzte Puppe",
-    "FLAVOR": "Ein Beweis deiner Schwäche, und doch kannst du sie nicht loslassen.",
+    "FLAVOR": "Die Puppe ist ein Beweis deiner Schwäche, und doch kannst du sie nicht loslassen.",
     "DESCRIPTIONS": [
       "Ersetzt ",
       " [REMOVE_SPACE].[] NL #yawakened:Rufe zu Beginn jedes Zuges einen Zauberspruch #yauf [REMOVE_SPACE]. NL Erhalte #b1 #yRitual [REMOVE_SPACE], wenn du das erste Mal im Kampf dein Zauberbuch neu auffüllst."
@@ -55,7 +55,7 @@
   },
   "awakened:AbyssBlade": {
     "NAME": "Klinge der Leere",
-    "FLAVOR": "Ungültige Rückerstattung.",
+    "FLAVOR": "Jeder Hieb geht ins Leere... oder in die Leere?",
     "DESCRIPTIONS": [
       "Wenn du das erste Mal im Zug #yawakened:ausgelaugt bist, ziehe eine Karte und erhalte [E] ."
     ]
@@ -107,7 +107,7 @@
     ]
   },
   "awakened:CursedBlessing": {
-    "NAME": "Letzte Riten",
+    "NAME": "Letzter Wille",
     "FLAVOR": "Ich vermache meine gesamten Besitztümer meiner Katze Noodles. Ade, du grausame Welt. XOXO Ritter",
     "DESCRIPTIONS": [
       "Wenn du das erste Mal im Kampf #b",
@@ -119,13 +119,13 @@
     "NAME": "Klinge beschwören",
     "FLAVOR": "Na komm, mach es schon. Beschwöre eine Klinge, jetzt gleich. Ich warte. :^)",
     "DESCRIPTIONS": [
-      "Nimm zu Beginn des Kampfes eine #yKlinge #ybeschwören Karte in die Hand?",
+      "Erhalte zu Beginn des Kampfes eine #yKlinge #ybeschwören Karte?",
       "NOTE: THE PLAYER CANNOT OBTAIN THIS RELIC OUTSIDE OF CONSOLE, IT'S A JOKE RELIC!"
     ]
   },
   "awakened:CurvedSword": {
     "NAME": "Zetsumei",
-    "FLAVOR": "Diese Klinge wird von Magiern bevorzugt, da sie einen Teil der gesprochenen Zauber wieder aufnimmt.",
+    "FLAVOR": "Diese Klinge wird von Magiern bevorzugt, da sie einen Teil der gesprochenen Zauber in sich aufnimmt.",
     "DESCRIPTIONS": [
       "Erhalte eine #yZeremonie für alle #b",
       " Zauber, die du in einem Kampf ausspielst."
@@ -135,9 +135,9 @@
     "NAME": "Schwarze Rosenblüte",
     "FLAVOR": "„Bitte... vergiss mich nicht... auch nach meinem Tod.“",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben eine Karte aus, die #rKEINEN Zauberspruch #yawakened:aufruft [REMOVE_SPACE]. Sie erhält #yawakened:Aufrufen.",
+      "Wähle beim Aufheben eine Karte, die #rKEINEN Zauberspruch #yawakened:aufruft [REMOVE_SPACE]. Sie erhält #yawakened:Aufrufen.",
       "Wähle eine Karte für die ",
-      "Das Blüte hat ",
+      "Die Blüte hat ",
       " gesegnet und #yawakened:Aufrufen hinzugefügt.",
       "Die eingelegte Karte wurde aus dem Deck #rentfernt [REMOVE_SPACE]. Das Relikt hat keine Wirkung mehr."
     ]
@@ -154,7 +154,7 @@
     "NAME": "Ausgetrocknete Hand",
     "FLAVOR": "Sie verlangt nach wahrer Macht, und reagiert nicht auf okkulte Rituale.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine #rANDERE #yMacht als #yZeremonie ausspielst, kostet eine zufällige Handkarte in diesem Zug #b0."
+      "Immer wenn du eine #rANDERE #yMacht als #yZeremonie ausspielst, kostet eine zufällige Handkarte in diesem Zug #b0 [REMOVE_SPACE]."
     ]
   }
 }

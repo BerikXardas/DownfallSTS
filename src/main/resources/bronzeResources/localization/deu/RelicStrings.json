@@ -3,7 +3,7 @@
     "NAME": "Bronzekern",
     "FLAVOR": "Hält 50.000 Jahre.",
     "DESCRIPTIONS": [
-      "Erhalte [E] , wenn du das erste Mal im Kampf eine #yFunktion #ykompilierst."
+      "Erhalte [E] , wenn du das erste Mal im Kampf eine #yFunktion #ykompilierst [REMOVE_SPACE]."
     ]
   },
   "bronze:ProtectiveGoggles": {
@@ -26,7 +26,7 @@
     "NAME": "Frostige Grundierung",
     "FLAVOR": "22 Miligramm des Isotops Ne22 - Lebensdauer: 22 Jahre. Zu lagern in einem Mahagonikühlschrank.",
     "DESCRIPTIONS": [
-      "Alle #yFunktionen [REMOVE_SPACE], die du #ykompilierst erhalten #yBehalten [REMOVE_SPACE]."
+      "Alle #yFunktionen [REMOVE_SPACE], die du #ykompilierst [REMOVE_SPACE], erhalten #yBehalten [REMOVE_SPACE]."
     ]
   },
   "bronze:Mallet": {
@@ -102,7 +102,7 @@
     "NAME": "Paradoxes Artefakt",
     "FLAVOR": "Du warst beim Coden noch nie so sehr in Ekstase.",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn jedes Zuges eine zufällige Karte mit #ybronze:Kodieren. Sie ist #yflüchtig [REMOVE_SPACE]."
+      "Erhalte zu Beginn jedes Zuges eine zufällige Karte mit #ybronze:Kodieren [REMOVE_SPACE]. Sie ist #yflüchtig [REMOVE_SPACE]."
     ]
   }
 }

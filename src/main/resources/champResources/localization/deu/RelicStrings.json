@@ -8,7 +8,7 @@
   },
   "champ:BlackKnightHelmet": {
     "NAME": "Schwarzer Helm",
-    "FLAVOR": "Nur eine Fleischwunde.",
+    "FLAVOR": "Es ist nur eine Fleischwunde.",
     "DESCRIPTIONS": [
       "Wenn du das erste Mal im Kampf die entsprechende #yHaltung annimst: NL #ychamp:Defensiv [REMOVE_SPACE]: #gErhalte #b2 #yGeschicklichkeit und #rverliere #b1 #yStärke [REMOVE_SPACE]. NL #ychamp:Offensiv [REMOVE_SPACE]: #gErhalte #b2 #yStärke und #rverliere #b1 #yGeschicklichkeit [REMOVE_SPACE]."
     ]
@@ -119,7 +119,7 @@
     "NAME": "Neuer Herausforderer",
     "FLAVOR": "Hältst du der Krone stand?",
     "DESCRIPTIONS": [
-      "Beginne jeden Kamp in einer zufälligen Champ #yHaltung [REMOVE_SPACE]."
+      "Beginne jeden Kampf in einer zufälligen Champ #yHaltung [REMOVE_SPACE]."
     ]
   },
   "downfall:BustedCrownGagText": {

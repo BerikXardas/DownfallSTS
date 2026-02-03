@@ -84,7 +84,7 @@
     "NAME": "Flaschenhirn",
     "FLAVOR": "Gefunden im Labor eines Zauberers.",
     "DESCRIPTIONS": [
-      "#yVerbessere beim Aufheben eine Karte in deiner #ySammlung. Beginne jeden Kampf mit der gewählten Karte auf deinem #ySammlungsstapel [REMOVE_SPACE].",
+      "#yVerbessere beim Aufheben eine Karte in deiner #ySammlung [REMOVE_SPACE]. Beginne jeden Kampf mit der gewählten Karte auf deinem #ySammlungsstapel [REMOVE_SPACE].",
       "Beginne jeden Kampf mit ",
       " auf deinem #ySammlungsstapel [REMOVE_SPACE].",
       "Wähle eine Karte für das ",
@@ -101,7 +101,7 @@
   },
   "collector:ForbiddenFruit": {
     "NAME": "Verbotene Frucht",
-    "FLAVOR": "Die Art dieser Frucht sieht äußerst fremdartig aus.",
+    "FLAVOR": "Diese Frucht sieht äußerst fremdartig aus.",
     "DESCRIPTIONS": [
       "Füge beim Aufheben einen #rParasiten in dein Deck hinzu und erhöhe deine max. TP um #b",
       " [REMOVE_SPACE]. Beginne jeden Kampf mit #b",

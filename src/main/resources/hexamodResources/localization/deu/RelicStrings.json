@@ -74,14 +74,14 @@
     "NAME": "Olexas Schild",
     "FLAVOR": "Schutz auf Nachfrage.",
     "DESCRIPTIONS": [
-      "#yMachtkarten bringen auch #ySengende und #ySchlagende #yGeisterflammen voran."
+      "#yMachtkarten bringen auch die #yhexamod:Entzündung #ySengender und #ySchlagender #yGeisterflammen voran."
     ]
   },
   "hexamod:BolsterEngine": {
     "NAME": "Trickys Stärkungsstab",
     "FLAVOR": "Unterstützt durch die Recherche tausender Bücher. Wissen ist Macht!",
     "DESCRIPTIONS": [
-      "Erhalte für die erste #yMachtkarte die du im Kampf spielst #b",
+      "Erhalte für die erste #yMacht [REMOVE_SPACE], die du im Kampf spielst, #b",
       " #yBlock und #b",
       " #yStärke [REMOVE_SPACE]."
     ]
@@ -91,7 +91,7 @@
     "FLAVOR": "Feuer BRENNT...",
     "DESCRIPTIONS": [
       "Immer wenn du #yhexamod:Seelenfeuer anwendest, wende zusätzlich #b",
-      " #yhexamod:Seelenfeuer an."
+      " #ySeelenfeuer an."
     ]
   },
   "hexamod:Sixitude": {
@@ -108,7 +108,7 @@
     "DESCRIPTIONS": [
       "#yTransformiere jeweils eine beliebige Anzahl deiner #ySchläge in zufällige Fertigkeiten und #yVerteidigen in zufällige Angriffe.",
       "Die Waage der Gerechtigkeit neigt sich.",
-      "Wähle eine beliebige Anzahl an Karten um sie zu ihren gegenteiligen Typen zu transformieren."
+      "Wähle eine beliebige Anzahl an Karten, um sie zu ihren gegenteiligen Typen zu transformieren."
     ]
   }
 }

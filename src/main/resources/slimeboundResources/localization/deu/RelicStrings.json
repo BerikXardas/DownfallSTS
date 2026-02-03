@@ -28,7 +28,7 @@
   },
   "Slimebound:PotencyRelic": {
     "NAME": "Stein von Nomakk",
-    "FLAVOR": "Wenn du es einem Schleim zeigst, beginnt er immer freudig zu wabbeln.",
+    "FLAVOR": "Wenn du ihn einem Schleim zeigst, beginnt er immer freudig zu wabbeln.",
     "DESCRIPTIONS": [
       "Beginne jeden Kampf mit #b1 #yslimeboundmod:Potenz [REMOVE_SPACE]."
     ]
@@ -52,7 +52,7 @@
   },
   "Slimebound:GreedOozeRelic": {
     "NAME": "Gierschleim",
-    "FLAVOR": "Ein besonderer Schleim, der sich von Seelen ernährt.",
+    "FLAVOR": "Ein besonderer Schleim, der sich von Gold und Seelen ernährt.",
     "DESCRIPTIONS": [
       "#yslimeboundmod:Spalte zu Beginn des Kampfes einen #yGierschleim #yab - er kann wiederbelebt werden. Der #yGierschleim frisst am Lagerfeuer #b50 #yGold und erhöht dadurch seinen Schaden um #b1."
     ]
@@ -61,7 +61,7 @@
     "NAME": "Schleimsuppe",
     "FLAVOR": "Sie ist sehr gesund, aber sie schmeckt scheuslich.",
     "DESCRIPTIONS": [
-      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit einer #yVorbereiten Karte die #b0 kostet."
+      "Immer wenn du an ein Lagerfeuer kommst, beginne den nächsten Kampf mit einer #yVorbereiten Karte, die diesen Zug #b0 kostet."
     ]
   },
   "Slimebound:AggressiveSlimeRelic": {
@@ -90,7 +90,7 @@
     "NAME": "Schutzausrüstung",
     "FLAVOR": "Angriff ist die beste Verteidigung.",
     "DESCRIPTIONS": [
-      "Verringere den Schaden den du durch #yslimeboundmod:Tackles erleidest um #b",
+      "Verringere den Schaden, den du durch #yslimeboundmod:Tackles erleidest, um #b",
       " [REMOVE_SPACE]."
     ]
   },

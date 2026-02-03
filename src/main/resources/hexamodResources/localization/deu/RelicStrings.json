@@ -60,7 +60,7 @@
     "FLAVOR": "Etwas extra-Schärfe macht alles besser.",
     "DESCRIPTIONS": [
       "Beginne jeden Kampf mit #b",
-      " #yhexamod:Intensität."
+      " #yhexamod:Intensität [REMOVE_SPACE]."
     ]
   },
   "hexamod:SoulOfChaos": {

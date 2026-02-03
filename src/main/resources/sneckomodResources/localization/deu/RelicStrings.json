@@ -61,7 +61,7 @@
     "NAME": "Unidentifiziertes Ei",
     "FLAVOR": "Was wird daraus schlüpfen? Zahle $1000 um zuzusehen.",
     "DESCRIPTIONS": [
-      "Jede Karte einer #ysneckomod:Fremdklasse, die du erhältst, ist #yverbessert. #yVerbessere beim Aufheben #b2 zufällige Karten aus #yFremdklassen [REMOVE_SPACE]."
+      "Jede Karte einer #ysneckomod:Fremdklasse, die du erhältst, ist #yverbessert [REMOVE_SPACE]. #yVerbessere beim Aufheben #b2 zufällige Karten aus #yFremdklassen [REMOVE_SPACE]."
     ]
   },
   "sneckomod:SuperSneckoEye": {

@@ -10,7 +10,7 @@
     "NAME": "Schwarzer Helm",
     "FLAVOR": "Es ist nur eine Fleischwunde.",
     "DESCRIPTIONS": [
-      "Wenn du das erste Mal im Kampf die entsprechende #yHaltung annimst: NL #ychamp:Defensiv [REMOVE_SPACE]: #gErhalte #b2 #yGeschicklichkeit und #rverliere #b1 #yStärke [REMOVE_SPACE]. NL #ychamp:Offensiv [REMOVE_SPACE]: #gErhalte #b2 #yStärke und #rverliere #b1 #yGeschicklichkeit [REMOVE_SPACE]."
+      "Wenn du das erste Mal im Kampf die entsprechende #yHaltung annimst: NL #ychamp:Defensiv [REMOVE_SPACE]: #gErhalte #b2 #yGeschicklichkeit und #rverliere #b1 #yStärke [REMOVE_SPACE]. #ychamp:Offensiv [REMOVE_SPACE]: #gErhalte #b2 #yStärke und #rverliere #b1 #yGeschicklichkeit [REMOVE_SPACE]."
     ]
   },
   "champ:Barbells": {
@@ -50,7 +50,7 @@
     "NAME": "Ablenkende Armschienen",
     "FLAVOR": "Wenn du schon dachtest, dass Abblocken gut wäre...",
     "DESCRIPTIONS": [
-      "Erhalte zu Beginn deines Zuges #ychamp:Konter in Höhe der Hälfte es ungebrauchten #yBlock [REMOVE_SPACE]."
+      "Erhalte zu Beginn deines Zuges #ychamp:Konter in Höhe der Hälfte es ungebrauchten NL #yBlock [REMOVE_SPACE]."
     ]
   },
   "champ:DuelingGlove": {
@@ -71,7 +71,7 @@
     "NAME": "Lehren der Gladiatoren",
     "FLAVOR": "Probiere alles aus - etwas wird schon hängenbleiben.",
     "DESCRIPTIONS": [
-      "Immer wenn du im selben Zug jeweils mindetens eine Karte mit #ychamp:Combo (egal ob aktiv oder nicht) und einen #ychamp:Abschluss ausspielst, sowie eine #yHaltung annimmst, dann erhalte #b1 #yStärke und #yGeschicklichkeit [REMOVE_SPACE]."
+      "Immer wenn du im selben Zug jeweils mindetens eine Karte mit #ychamp:Combo (egal ob aktiv oder nicht) und einen #ychamp:Abschluss ausspielst, sowie eine #yHaltung annimmst, erhalte #b1 #yStärke und #yGeschicklichkeit [REMOVE_SPACE]."
     ]
   },
   "champ:PowerArmor": {

@@ -9,7 +9,7 @@
   "collector:BindingCall": {
     "NAME": "Bindender Ruf",
     "DESCRIPTIONS": [
-      "Wende immer wenn du deine gesamten #ytemporären #yTP verlierst #b",
+      "Wende immer, wenn du deine gesamten #ytemporären #yTP verlierst, #b",
       " #yVerdammnis auf ALLE Gegner an.",
       "Translator Note: NOT USED"
     ]
@@ -163,9 +163,9 @@
   "collector:Soulforge": {
     "NAME": "Seelenschmiede",
     "DESCRIPTIONS": [
-      "Nimm zu Beginn deines Zuges eine #yGlut in die Hand.",
-      "Nimm zu Beginn deines Zuges #b",
-      " #yGlut Karten in die Hand."
+      "Erhalte zu Beginn deines Zuges eine #yGlut [REMOVE_SPACE].",
+      "Erhalte zu Beginn deines Zuges #b",
+      " #yGlut Karten."
     ]
   },
   "collector:StrengthOverTurns": {
@@ -180,7 +180,7 @@
   "collector:Suffering": {
     "NAME": "Leiden lassen",
     "DESCRIPTIONS": [
-      "Wende immer wenn du #ySchwach oder #yVerwundbar anwendest zusätzlich #b",
+      "Wende immer, wenn du #ySchwach oder #yVerwundbar anwendest, zusätzlich #b",
       " #yVerdammnis an."
     ]
   },
@@ -226,9 +226,9 @@
   "collector:MadGremlinCard": {
     "NAME": "Wütend",
     "DESCRIPTIONS": [
-      "Nimm das Nächste Mal wenn du in diesem Zug ungeblockten Angriffsschaden erleidest einen #yWütenden #yGremlin in die Hand.",
-      "Nimm das Nächste Mal wenn du in diesem Zug ungeblockten Angriffsschaden erleidest #b",
-      " #yWütende #yGremlins in die Hand."
+      "Nimm das Nächste Mal, wenn du in diesem Zug ungeblockten Angriffsschaden erleidest, einen #yWütenden #yGremlin auf die Hand.",
+      "Nimm das Nächste Mal, wenn du in diesem Zug ungeblockten Angriffsschaden erleidest, #b",
+      " #yWütende #yGremlins auf die Hand."
     ]
   },
   "collector:GremlinWizardCard": {

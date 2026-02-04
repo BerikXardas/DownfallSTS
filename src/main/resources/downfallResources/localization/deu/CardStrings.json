@@ -1,7 +1,7 @@
 {
   "downfall:Aged": {
     "NAME": "Altern",
-    "DESCRIPTION": "Unspielbar. Flüchtig. NL Nimm am Ende des Zuges eine Leere auf den Abwurfstapel."
+    "DESCRIPTION": "Unspielbar. NL Flüchtig. NL Nimm am Ende des Zuges eine Leere auf den Abwurfstapel."
   },
   "downfall:Bewildered": {
     "NAME": "Irritation",
@@ -13,15 +13,15 @@
   },
   "downfall:Haunted": {
     "NAME": "Spuk",
-    "DESCRIPTION": "Flüchtig. NL Erleide am Ende deines Zuges !M! Schaden."
+    "DESCRIPTION": "Flüchtig. NL Ist diese Karte am Ende des Zuges auf der Hand, erleidest du !M! Schaden."
   },
   "downfall:Malfunctioning": {
     "NAME": "Unreinheit",
-    "DESCRIPTION": "Nimm am Ende des Zuges eine Wunde auf den Abwurfstapel. NL Erschöpft."
+    "DESCRIPTION": "Ist diese Karte am Ende des Zuges auf der Hand, dann lege eine Wunde auf den Abwurfstapel. NL Erschöpft."
   },
   "downfall:Scatterbrained": {
     "NAME": "Zerstreutheit",
-    "DESCRIPTION": "Nimm am Ende des Zuges eine Kopie dieser Karte auf den Abwurfstapel. NL Erschöpft."
+    "DESCRIPTION": "Ist diese Karte am Ende des Zuges auf der Hand, dann lege eine Kopie auf den Abwurfstapel. NL Erschöpft."
   },
   "downfall:CurseOfBlood": {
     "NAME": "Blutleer",

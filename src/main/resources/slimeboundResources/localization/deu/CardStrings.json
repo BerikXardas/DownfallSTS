@@ -198,8 +198,8 @@
   },
   "Slimebound:PrepareCrush": {
     "NAME": "SCHLEIM...",
-    "DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!!!, [E] [E] [E] und !M! Stärke. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!!!+, [E] [E] [E] [E] und !M! Stärke. NL Erschöpft.",
+    "DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!, [E] [E] [E] und !M! Stärke. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!+, [E] [E] [E] [E] und !M! Stärke. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "~Schleim...~ NL #r~ZERSCHMETTERN!!!~"
     ]
@@ -287,7 +287,7 @@
     "DESCRIPTION": "Spiele die oberste Karte des Nachziehstapels. Wiederhole das für jeden Schleim. NL Erschöpft."
   },
   "Slimebound:SlimeCrush": {
-    "NAME": "ZERSCHMETTERN!!!",
+    "NAME": "ZERSCHMETTERN!",
     "DESCRIPTION": "Flüchtig. NL Füge !D! Schaden zu. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Flüchtig. NL Füge ALLEN Gegnern !D! Schaden zu. NL Erschöpft."
   },

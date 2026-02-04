@@ -17,7 +17,7 @@
     "NAME": "Armee aus der Flasche",
     "DESCRIPTIONS": [
       "#ySpalte #b",
-      " zufällige Schleime ab (Normale und #ySpezialisten [REMOVE_SPACE])."
+      " zufällige Schleime #yab (Normale und #ySpezialisten [REMOVE_SPACE])."
     ]
   },
   "Slimebound:ThreeZeroPotion": {

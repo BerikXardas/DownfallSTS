@@ -137,7 +137,7 @@
   },
   "hermit:ImpendingDoom": {
     "NAME": "Drohendes Verhängnis",
-    "DESCRIPTION": "Unspielbar. NL Ist diese Karte am Ende des Zuges in hermit:Volltreffer Position fügt sie ALLEN 13 Schaden zu."
+    "DESCRIPTION": "Unspielbar. NL Ist diese Karte am Ende des Zuges in hermit:Volltreffer Position, fügt sie ALLEN 13 Schaden zu."
   },
   "hermit:MementoCard": {
     "NAME": "Andenken",

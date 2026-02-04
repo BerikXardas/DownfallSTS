@@ -163,8 +163,8 @@
   },
   "Guardian:PackageSentry": {
     "NAME": "Paket: Wache",
-    "DESCRIPTION": "Erhalte NL *Wache-Strahl und zwei *Wache-Wellen. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte NL *Wache-Strahl+ und zwei *Wache-Welle+. NL Erschöpft."
+    "DESCRIPTION": "Erhalte einen *Wache-Strahl und zwei *Wache-Wellen. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte einen *Wache-Strahl+ und zwei *Wache-Welle+. NL Erschöpft."
   },
   "Guardian:PackageWalker": {
     "NAME": "Paket: Kugelwandler",

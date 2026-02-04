@@ -378,7 +378,7 @@
   },
   "collector:Suffering": {
     "NAME": "Leiden lassen",
-    "DESCRIPTION": "Wende immer wenn du *Schwach oder *Verwundbar anwendest zusätzlich !M! collector:Verdammnis an."
+    "DESCRIPTION": "Wende immer, wenn du *Schwach oder *Verwundbar anwendest, zusätzlich !M! collector:Verdammnis an."
   },
   "collector:SunbloomKindling": {
     "NAME": "Starker Anzünder",

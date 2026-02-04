@@ -296,7 +296,7 @@
 
   "Gremlin:PartyStick": {
     "NAME": "Leuchtstab",
-    "DESCRIPTION": "Flüchtig. Unspielbar. NL Erhalte [E] , wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
+    "DESCRIPTION": "Flüchtig. NL Unspielbar. NL Erhalte [E] , wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
     "UPGRADE_DESCRIPTION": "Unspielbar. NL Erhalte [E] , wenn du mit dieser Karte auf der Hand gremlin:wechselst.",
     "EXTENDED_DESCRIPTION": ["Niemand darf mit dem Leuchtstab spielen."]
   },

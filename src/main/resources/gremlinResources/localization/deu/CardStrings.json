@@ -69,13 +69,13 @@
 
   "Gremlin:CowerChoice": {
     "NAME": "Feigheit",
-    "DESCRIPTION": "Verliere deine ganzen Reserven an Gold.",
+    "DESCRIPTION": "Verliere deine ganze Reserve an Gold.",
     "EXTENDED_DESCRIPTION": ["SCHWÄCHLINGE NICHT DUMM."]
   },
 
   "Gremlin:CowerChoiceB": {
     "NAME": "Feigheit",
-    "DESCRIPTION": "Verliere den Gremlin der am weitesten hinten steht permanent.",
+    "DESCRIPTION": "Verliere den Gremlin, der am weitesten hinten steht, permanent.",
     "EXTENDED_DESCRIPTION": ["Gut. Und ihr anderen - verschwindet!", "Ja! Zischt ab!"]
   },
 
@@ -254,11 +254,11 @@
 
   "Gremlin:Kablamo": {
     "NAME": "Simsalabim!",
-    "DESCRIPTION": "Füge ALLEN Gegnern zweimal !D! Schaden zu. NL Dieser Angriff verbraucht keinen gremlin:Esprit."
+    "DESCRIPTION": "Füge ALLEN Gegnern 2 Mal !D! Schaden zu. NL Dieser Angriff verbraucht keinen gremlin:Esprit."
   },
 
   "Gremlin:LeaderChoice": {
-    "NAME": "Triff eine Entscheidung",
+    "NAME": "Entscheidung",
     "DESCRIPTION": "Deinen Kamereden opfern?"
   },
 
@@ -290,7 +290,7 @@
   },
 
   "Gremlin:NobChoice": {
-    "NAME": "Triff eine Entscheidung",
+    "NAME": "Entscheidung",
     "DESCRIPTION": "Gold aufgeben?"
   },
 
@@ -340,7 +340,7 @@
 
   "Gremlin:Pretaliation": {
     "NAME": "Eilangriff",
-    "DESCRIPTION": "Füge zweimal !D! Schaden zu. NL Der Gegner greift dich mit !M! Schaden an."
+    "DESCRIPTION": "Füge 2 Mal !D! Schaden zu. NL Der Gegner greift dich mit !M! Schaden an."
   },
 
   "Gremlin:ProperTools": {
@@ -431,7 +431,7 @@
   },
 
   "Gremlin:SneakyGremlin": {
-    "NAME": "Schleichender Gremlin",
+    "NAME": "Schleich-Gremlin",
     "DESCRIPTION": "gremlin:Wechsle zum gremlin:Schleichenden_Gremlin."
   },
 

@@ -446,7 +446,7 @@
   },
 
   "Gremlin:SupplyScrollCard": {
-    "NAME": "Versorgungsschrift",
+    "NAME": "Versorgung",
     "DESCRIPTION": "Erhalte per Zufall Messer und *Schutz (insgesamt !M!). NL Erschöpft."
   },
 
@@ -473,7 +473,7 @@
   },
 
   "Gremlin:TwistTheKnife": {
-    "NAME": "Doppeltes Messer",
+    "NAME": "Zweischneidig",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte 1 Messer.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte 1 Messer+."
   },

@@ -5,6 +5,8 @@ import com.evacipated.cardcrawl.modthespire.lib.SpirePrefixPatch;
 import com.evacipated.cardcrawl.modthespire.lib.SpireReturn;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.dungeons.TheEnding;
+import com.megacrit.cardcrawl.relics.Sling;
+import downfall.downfallMod;
 import downfall.patches.EvilModeCharacterSelect;
 
 @SpirePatch(
@@ -16,8 +18,12 @@ public class MapCompatiblity {
     @SpirePrefixPatch
     public static SpireReturn<Integer> evilMode()
     {
-        if (EvilModeCharacterSelect.evilMode)
-        {
+        if (EvilModeCharacterSelect.evilMode) {
+            if (AbstractDungeon.id.equals(TheEnding.ID)) {
+                    downfallMod.removeAnyRelicFromPools(Sling.ID);
+            }
+
+
             return SpireReturn.Return(AbstractDungeon.getCurrMapNode().y == 0 ? (AbstractDungeon.id.equals(TheEnding.ID) ? 2 : 14) : 13);
 
         }

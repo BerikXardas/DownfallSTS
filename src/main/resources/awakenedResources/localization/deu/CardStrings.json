@@ -133,7 +133,8 @@
   },
   "awakened:SludgeBomb": {
     "NAME": "Schlammbombe",
-    "DESCRIPTION": "Erfordert eine *Leere im Erschöpfungsstapel. Entferne sie und füge zweimal !D! Schaden zu.",
+    "DESCRIPTION": "Erfordert eine *Leere im Erschöpfungsstapel. Entferne sie und füge ALLEN Gegnern !D! Schaden zu.",
+
     "EXTENDED_DESCRIPTION": [
       "Ich habe keine erschöpfte Leere."
     ]
@@ -331,8 +332,7 @@
   },
   "awakened:Procession": {
     "NAME": "Prozession",
-    "DESCRIPTION": "Spiele eine Karte aus dem Nachziehstapel und mische *Leeren in Höhe ihrer Kosten hinein. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Spiele eine Karte aus dem Nachziehstapel und mische *Leeren in Höhe ihrer Kosten hinein."
+    "DESCRIPTION": "Spiele eine Karte aus dem Nachziehstapel und mische *Leeren in Höhe ihrer Kosten hinein. NL Erschöpft."
   },
   "awakened:SplitWide": {
     "NAME": "Aufreißen",

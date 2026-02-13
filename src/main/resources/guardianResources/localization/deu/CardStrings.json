@@ -25,7 +25,7 @@
   "Guardian:Gem_White": {
     "NAME": "Opal",
     "DESCRIPTION": "guardianmod:Juwel. NL Ziehe eine Karte.",
-    "UPGRADE_DESCRIPTION": "Ziehe eine Karte."
+    "UPGRADE_DESCRIPTION": "Ziehe 1 Karte."
   },
   "Guardian:Gem_Orange": {
     "NAME": "Zitrin",
@@ -35,7 +35,7 @@
   "Guardian:Gem_Cyan": {
     "NAME": "Aquamarin",
     "DESCRIPTION": "guardianmod:Juwel. NL Erhalte einen *Kristallschutz.",
-    "UPGRADE_DESCRIPTION": "Erhalte einen *Kristallschutz."
+    "UPGRADE_DESCRIPTION": "Erhalte *Kristallschutz."
   },
   "Guardian:ChargeUp": {
     "NAME": "Aufladen",
@@ -337,7 +337,7 @@
   "Guardian:Gem_Synthetic": {
     "NAME": "Onyx",
     "DESCRIPTION": "guardianmod:Juwel. NL Reduziere deine Debuffs um 1.",
-    "UPGRADE_DESCRIPTION": "Reduziere deine Debuffs um 1."
+    "UPGRADE_DESCRIPTION": "Reduziere Debuffs um 1."
   },
   "Guardian:Gem_Yellow": {
     "NAME": "Bernstein",
@@ -347,7 +347,7 @@
   "Guardian:Gem_Purple": {
     "NAME": "Amethyst",
     "DESCRIPTION": "guardianmod:Juwel. NL ALLE Gegner verlieren für diesen Zug 2 Stärke.",
-    "UPGRADE_DESCRIPTION": "ALLE Gegner verlieren für diesen Zug 2 Stärke."
+    "UPGRADE_DESCRIPTION": "ALLE Gegner verlieren diesen Zug 2 Stärke."
   },
   "Guardian:Gem_Crimson": {
     "NAME": "Granat",
@@ -362,7 +362,7 @@
   "Guardian:Gem_Fragmented": {
     "NAME": "Edelsteinsplitter",
     "DESCRIPTION": "guardianmod:Juwel. NL Erhalte ein *Kristallmesser.",
-    "UPGRADE_DESCRIPTION": "Erhalte ein *Kristallmesser."
+    "UPGRADE_DESCRIPTION": "Erhalte *Kristallmesser."
   },
   "Guardian:CrystalShiv": {
     "NAME": "Kristallmesser",

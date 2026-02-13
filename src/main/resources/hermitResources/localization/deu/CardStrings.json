@@ -295,7 +295,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Falls tödlich, kostet diese Karte permanent 1 weniger. NL Erschöpft."
   },
   "hermit:HoleUp": {
-    "NAME": "Zumauern",
+    "NAME": "Verkriechen",
     "DESCRIPTION": "Erhalte !B! Block. NL Erhalte !M! Schwach."
   },
   "hermit:ItchyTrigger": {

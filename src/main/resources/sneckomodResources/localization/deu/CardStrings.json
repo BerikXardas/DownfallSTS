@@ -476,8 +476,8 @@
   },
   "sneckomod:Cower": {
     "NAME": "Niederkauern",
-    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte *Zumauern. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte *Zumauern+. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte *Verkriechen. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erhalte *Verkriechen+. NL Erschöpft."
   },
   "sneckomod:WideSting": {
     "NAME": "Fernkampf",

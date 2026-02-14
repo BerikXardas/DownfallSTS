@@ -110,8 +110,8 @@
   },
   "hexamod:MatchstickFloat": {
     "NAME": "Magisches Zündholz",
-    "DESCRIPTION": "This card shouldn't be encountered in a run. NL If you're reading this, you've probably encountered a bug. NL Please report this to a mod dev.",
-    "UPGRADE_DESCRIPTION": "This card shouldn't be encountered in a run. NL If you're reading this, you've probably encountered a bug. NL Please report this to a mod dev.",
+    "DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team.",
+    "UPGRADE_DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team.",
     "EXTENDED_DESCRIPTION": ["hexamod:Vorwärts.", "hexamod:Rückwärts.", "Tu nichts."]
   },
   "hexamod:Floatwork": {

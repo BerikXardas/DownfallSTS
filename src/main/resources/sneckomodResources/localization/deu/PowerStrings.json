@@ -18,9 +18,9 @@
   "sneckomod:CheatPower": {
     "NAME": "Schummeln",
     "DESCRIPTIONS": [
-      "#yÜberschuss Effekte werden in diesem Zug immer aktiviert - unabhängig von der Handgröße.",
+      "#yÜberschuss Effekte werden in diesem Zug immer aktiviert - unabhängig von der Anzahl der Handkarten.",
       "#yÜberschuss Effekte werden in den nächsten #b",
-      " Zügen immer aktiviert - unabhängig von der Handgröße."
+      " Zügen immer aktiviert - unabhängig von der Anzahl der Handkarten."
     ]
   },
   "sneckomod:MuddleDrawnCardsPower": {

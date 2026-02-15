@@ -82,7 +82,7 @@
       "siegel",
       "seal"
     ],
-    "DESCRIPTION": "Siegel Karten können nach einem Kampf gefunden werden. Je mehr Siegel man ausspielt, desto öfter findet man weitere Siegel. Werden alle #b6 Siegel in eiem Kampf ausgespielt, erhalte das #pGebrochene #pSiegel und entferne die #b6 Siegel aus deinem Deck."
+    "DESCRIPTION": "Siegel-Karten können nach einem Kampf gefunden werden. Je mehr Siegel man ausspielt, desto öfter findet man weitere Siegel. Werden alle #b6 Siegel in eiem Kampf ausgespielt, erhalte das #pGebrochene #pSiegel und entferne die #b6 Siegel aus deinem Deck."
   },
   {
     "ID": "afterlife",
@@ -91,7 +91,7 @@
       "reinkarnation",
       "afterlife"
     ],
-    "DESCRIPTION": "Der violett hervorgehobene Effekt wird auch beim #yErschöpfen der Karte aktiviert."
+    "DESCRIPTION": "Der #pviolett hervorgehobene Effekt wird auch beim #yErschöpfen der Karte aktiviert."
   },
   {
     "PROPER_NAME": "Schlagend",

@@ -227,7 +227,7 @@
     ]
   },
   "bronze:FollowUp": {
-    "NAME": "Laufwerk",
+    "NAME": "Auswerten",
     "DESCRIPTION": "Erhalte !B! Block. NL Füge !D! Schaden zu. NL Hast du diesen Kampf zuletzt eine Funktion gespielt, dann spiele diese Karte nochmal."
   },
   "bronze:ForceShield": {
@@ -282,7 +282,7 @@
     "DESCRIPTION": "Erhalte eine zufällige Karte mit bronze:Kodieren. Sie kostet 0 bis du sie spielst. NL Erschöpft."
   },
   "bronze:Goto": {
-    "NAME": "Update",
+    "NAME": "Laufwerk",
     "DESCRIPTION": "Ziehe !M! Karte. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karte.",
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karten.",
     "EXTENDED_DESCRIPTION": [

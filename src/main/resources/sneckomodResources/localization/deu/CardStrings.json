@@ -64,7 +64,7 @@
     ]
   },
   "sneckomod:GlitteringGambit": {
-    "NAME": "Glitzergambit",
+    "NAME": "Opulenz",
     "DESCRIPTION": "Unspielbar. NL Kann nicht aus dem Deck entfernt werden. NL sneckomod:Geschenk: Verbesserte Seltene und !M! Gold.",
     "UPGRADE_DESCRIPTION": "Unspielbar. Flüchtig. NL Kann nicht aus dem Deck entfernt werden. NL sneckomod:Geschenk: Verbesserte Seltene und !M! Gold.",
     "DESCRIPTION_BATTLE": "Unspielbar.",
@@ -146,7 +146,7 @@
     "DESCRIPTION": "Erhalte immer, wenn du eine Karte sneckomod:irrst, !M! Block."
   },
   "sneckomod:OverwhelmingPresence": {
-    "NAME": "Überwältigen",
+    "NAME": "Überläufer",
     "DESCRIPTION": "Flüchtig. NL Wenn du das erste Mal im Zug eine Karte einer sneckomod:Fremdklasse spielst, ziehe eine Karte.",
     "UPGRADE_DESCRIPTION": "Wenn du das erste Mal im Zug eine Karte einer sneckomod:Fremdklasse spielst, ziehe eine Karte."
   },
@@ -155,7 +155,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Der Schaden wird um !M! erhöht, wenn diese Karte sneckomod:geirrt wird."
   },
   "sneckomod:PoisonParadise": {
-    "NAME": "Fontäne",
+    "NAME": "Überfluss",
     "DESCRIPTION": "sneckomod:Überschuss Effekte wenden zusätzlich !M! sneckomod:Toxin auf einen zufälligen Gegner an."
   },
   "sneckomod:PureSnecko": {
@@ -431,7 +431,7 @@
     "UPGRADE_DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team."
   },
   "sneckomod:UnlimitedRolls": {
-    "NAME": "Unlimited Rolls",
+    "NAME": "Unendliche Würfel",
     "DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team.",
     "UPGRADE_DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team.",
     "EXTENDED_DESCRIPTION": [
@@ -512,7 +512,7 @@
     "UPGRADE_DESCRIPTION": "Wenn du eine Karte spielst, die mindestes 3 kostet, erhalte !qqq! Block und !M! Stärke."
   },
   "sneckomod:WideAngle": {
-    "NAME": "Weiter Winkel",
+    "NAME": "Wegfegen",
     "DESCRIPTION": "Behalten. NL Füge ALLEN Gegnern !D! Schaden zu."
   },
   "sneckomod:SerpentsNest": {
@@ -552,7 +552,7 @@
     "NAME": "Verkettung",
     "DESCRIPTION": "Füge für jede Karte einer sneckomod:Fremdklasse, die in diesem Zug gespielt wurde, !D! Schaden zu. NL sneckomod:Geschenk: Ungewöhnlich.",
     "EXTENDED_DESCRIPTION": [
-      " NL (trifft ",
+      " NL (Trifft ",
       " Mal.)"
     ],
     "DESCRIPTION_BATTLE": "Füge für jede Karte einer sneckomod:Fremdklasse, die in diesem Zug gespielt wurde, !D! Schaden zu."
@@ -587,7 +587,7 @@
     "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Wiederhole das für jede verschiedene Schlag Karte, die in diesem Kampf gespielt wurde.",
     "UPGRADE_DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Wiederhole das für jede verschiedene Schlag Karte, die in diesem Kampf gespielt wurde.",
     "EXTENDED_DESCRIPTION": [
-      " NL (trifft ",
+      " NL (Trifft ",
       " Mal zusätzlich.)"
     ]
   },

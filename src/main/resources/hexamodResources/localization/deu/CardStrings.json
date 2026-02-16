@@ -71,11 +71,11 @@
     "DESCRIPTION": "Erhalte !M! hexamod:Intensität."
   },
   "hexamod:EtherealExpedition": {
-    "NAME": "Reise zum Äther",
+    "NAME": "Flucht zum Äther",
     "DESCRIPTION": "Flüchtig. [#e087a4]Reinkarnation.[] NL [#e087a4]Setze[] !M! [#e087a4]zufällige[] [#e087a4]Reinkarnation [#e087a4]Karte[] [#e087a4]ein[] und nimm eine weitere auf die Hand."
   },
   "hexamod:ExtraCrispy": {
-    "NAME": "Extra knusprig",
+    "NAME": "Restwärme",
     "DESCRIPTION": "Wenn hexamod:Seelenfeuer detoniert, dann wende umgehend nach der Detonation !M! hexamod:Seelenfeuer an."
   },
   "hexamod:FastForward": {

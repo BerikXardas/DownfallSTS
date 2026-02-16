@@ -381,7 +381,7 @@
   },
 
   "Gremlin:SecondVolley": {
-    "NAME": "Zweite Salve",
+    "NAME": "Zweite Welle",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer für jede Karte, die du in diesem Zug gespielt hast (Maximal bis deine Hand voll ist).",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte ein Messer+ für jede Karte, die du in diesem Zug gespielt hast (Maximal bis deine Hand voll ist).",
     "EXTENDED_DESCRIPTION": [

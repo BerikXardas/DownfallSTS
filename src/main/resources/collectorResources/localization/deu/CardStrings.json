@@ -17,7 +17,7 @@
   },
   "collector:AshesAndDust": {
     "NAME": "Schutt und Asche",
-    "DESCRIPTION": "Füge ALLEN Gegnern X Mal !D! Schaden zu. NL Triffr 2 zusätzliche Male wenn X mindestens 5 ist."
+    "DESCRIPTION": "Füge ALLEN Gegnern X Mal !D! Schaden zu. NL Trifft 2 zusätzliche Male, wenn X mindestens 5 ist."
   },
   "collector:BindingCall": {
     "NAME": "Gebundener Ruf",
@@ -25,13 +25,13 @@
   },
   "collector:Billow": {
     "NAME": "Aufblähen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm im nächsten Zug *Aufbrüllen in die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm im nächsten Zug *Aufbrüllen auf die Hand."
   },
   "collector:Bellow": {
     "NAME": "Aufbrüllen",
-    "DESCRIPTION": "Flüchtig. NL Wende collector:Verdammnis in Höhe des im letzten Zug ungenutzen Block an. NL Erschöpft.",
+    "DESCRIPTION": "Flüchtig. NL Wende collector:Verdammnis in Höhe des im letzten Zug ungenutzen Block an. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
-      " NL ( Wendet !M! collector:Verdammnis an )"
+      " NL (!M! collector:Verdammnis.)"
     ]
   },
   "collector:BlackBindings": {

@@ -4,7 +4,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Wiederhole das für jede Handkarte, die mindestens 3 kostet."
   },
   "sneckomod:Tsunami": {
-    "NAME": "Tsunami",
+    "NAME": "Überfluss",
     "DESCRIPTION": "sneckomod:Überschuss Effekte verleihen zusätzlich !M! Block."
   },
   "sneckomod:CheapStock": {
@@ -155,7 +155,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Der Schaden wird um !M! erhöht, wenn diese Karte sneckomod:geirrt wird."
   },
   "sneckomod:PoisonParadise": {
-    "NAME": "Überfluss",
+    "NAME": "Überdosis",
     "DESCRIPTION": "sneckomod:Überschuss Effekte wenden zusätzlich !M! sneckomod:Toxin auf einen zufälligen Gegner an."
   },
   "sneckomod:PureSnecko": {

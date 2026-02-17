@@ -158,8 +158,8 @@
   },
   "Slimebound:MassRepurpose": {
     "NAME": "Massenwandlung",
-    "DESCRIPTION": "slimeboundmod:Absorbiere alle Schleime. slimeboundmod:Spalte für jeden auf diese Weise *absorbierten Schleim einen slimeboundmod:Spezialisten *ab. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbiere alle Schleime. slimeboundmod:Spalte für jeden auf diese Weise *absorbierten Schleim einen slimeboundmod:Spezialisten *ab. slimeboundmod:Kommandiere sie. NL Erschöpft."
+    "DESCRIPTION": "slimeboundmod:Absorbiere alle Schleime und slimeboundmod:spalte für jeden einen slimeboundmod:Spezialisten *ab. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbiere alle Schleime und slimeboundmod:spalte für jeden einen slimeboundmod:Spezialisten *ab. slimeboundmod:Kommandiere sie. NL Erschöpft."
   },
   "Slimebound:MegaLick": {
     "NAME": "Mega-Wabbel",

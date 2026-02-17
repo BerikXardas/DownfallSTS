@@ -401,7 +401,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Lege eine Karte aus dem Abwurfstapel auf den Nachziehstapel."
   },
   "collector:VoidArmor": {
-    "NAME": "Rüstung der Leere",
+    "NAME": "Leere Hülle",
     "DESCRIPTION": "ALLE erhalten !B! Block und 1 bronze:Verschwimmen."
   },
   "collector:Wildfire": {

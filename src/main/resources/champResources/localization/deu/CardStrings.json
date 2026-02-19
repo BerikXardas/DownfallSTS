@@ -141,7 +141,7 @@
     "DESCRIPTION": "Erhalte immer, wenn du eine *Haltung annimmst, !M! Block."
   },
   "champ:Lariat": {
-    "NAME": "Lariat",
+    "NAME": "Rückzug",
     "DESCRIPTION": "Erhalte X Mal !B! Block. NL Aktiviere X Mal den champ:Fertigkeitsbonus deiner *Haltung."
   },
   "champ:HoldFirm": {
@@ -213,9 +213,9 @@
   },
   "champ:EnragedBash": {
     "NAME": "Brutaler Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Diese Karte trifft in diesem Kampf ein weiteres Mal.",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Trifft in diesem Kampf ein weiteres Mal.",
     "EXTENDED_DESCRIPTION": [
-      "Füge !M! Mal !D! Schaden zu. NL champ:Offensivcombo: Diese Karte trifft in diesem Kampf ein weiteres Mal."
+      "Füge !M! Mal !D! Schaden zu. NL champ:Offensivcombo: Trifft in diesem Kampf ein weiteres Mal."
     ]
   },
   "champ:VampiricStrike": {
@@ -288,12 +288,12 @@
   },
   "champ:CalledShot": {
     "NAME": "Erfrischung",
-    "DESCRIPTION": "champ:Offensivcombo: Erhalte [E] [E] und erschöpfe diese Karte. NL champ:Defensivcombo: Ziehe !M! Karten.",
-    "UPGRADE_DESCRIPTION": "champ:Offensivcombo: Erhalte [E] [E] [E] und erschöpfe diese Karte. NL champ:Defensivcombo: Ziehe !M! Karten.",
+    "DESCRIPTION": "champ:Offensivcombo: NL Erhalte [E] [E] und erschöpfe diese Karte. NL champ:Defensivcombo: NL Ziehe !M! Karten.",
+    "UPGRADE_DESCRIPTION": "champ:Offensivcombo: NL Erhalte [E] [E] [E] und erschöpfe diese Karte. NL champ:Defensivcombo: NL Ziehe !M! Karten.",
     "EXTENDED_DESCRIPTION": [
-      "champ:Offensivcombo: Erhalte [E] [E] und erschöpfe diese Karte. NL ",
-      "champ:Offensivcombo: Erhalte [E] [E] [E] und erschöpfe diese Karte. NL ",
-      "champ:Defensivcombo: Ziehe !M! Karten.",
+      "champ:Offensivcombo: NL Erhalte [E] [E] und erschöpfe diese Karte. NL ",
+      "champ:Offensivcombo: NL Erhalte [E] [E] [E] und erschöpfe diese Karte. NL ",
+      "champ:Defensivcombo: NL Ziehe !M! Karten.",
       "Ein miserabler Zeitpunkt dafür."
     ]
   },

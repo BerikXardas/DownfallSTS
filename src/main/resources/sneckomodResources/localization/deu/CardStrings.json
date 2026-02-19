@@ -250,7 +250,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu."
   },
   "sneckomod:ToothAndClaw": {
-    "NAME": "Zähne und Krallen",
+    "NAME": "Bis an die Zähne",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte für jede Klasse auf der Hand ein Messer. NL sneckomod:Geschenk: Ungewöhnlich.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte für jede Klasse auf der Hand ein Messer+. NL sneckomod:Geschenk: Ungewöhnlich.",
     "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Erhalte für jede Klasse auf der Hand ein Messer.",

@@ -114,7 +114,7 @@
   },
   "bronze:ChosenStrike": {
     "NAME": "Kultistenschlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL bronze:Kompilierung: Erhöhe den Schaden dieser Karte permanent um !M!.",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL bronze:Kompilierung: Erhöhe den Schaden permanent um !M!.",
     "EXTENDED_DESCRIPTION": [
       "kultiges",
       "Krächzen"
@@ -173,7 +173,7 @@
     ]
   },
   "bronze:DelayedGuard": {
-    "NAME": "Herunterladen",
+    "NAME": "Backup",
     "DESCRIPTION": "Erhalte im nächsten Zug !B! Block.",
     "EXTENDED_DESCRIPTION": [
       "spätes",
@@ -210,7 +210,7 @@
     "DESCRIPTION": "Schnapp dir eine Karte vom Nachzieh- oder Abwurfstapel und lege ein Benommen an ihrer Stelle ein. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Schnapp dir eine Karte vom Nachzieh- oder Abwurfstapel. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
-      "Wähle."
+      "Wähle eine Karte."
     ]
   },
   "bronze:FineTuning": {
@@ -282,12 +282,12 @@
     "DESCRIPTION": "Erhalte eine zufällige Karte mit bronze:Kodieren. Sie kostet 0 bis du sie spielst. NL Erschöpft."
   },
   "bronze:Goto": {
-    "NAME": "Laufwerk",
+    "NAME": "Aktualisieren",
     "DESCRIPTION": "Ziehe !M! Karte. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karte.",
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karten.",
     "EXTENDED_DESCRIPTION": [
-      "laufendes",
-      "Sprinten"
+      "schnelles",
+      "Update"
     ]
   },
   "bronze:Hardcode": {
@@ -341,7 +341,7 @@
     "DESCRIPTION": "Erhalte zu Beginn jedes Zuges eine zufällige Karte mit bronze:Kodieren. Sie kostet 0 bis du sie spielst."
   },
   "bronze:MaxOutput": {
-    "NAME": "Maximaler Output",
+    "NAME": "Laufwerk",
     "DESCRIPTION": "Ziehe !M! Karten. NL Ziehe zu Beginn des Zuges 1 zusätzliche Karte und bronze:Setze 1 Benommen *ein."
   },
   "bronze:Mutator": {
@@ -426,7 +426,7 @@
     "UPGRADE_DESCRIPTION": "Lege eine Karte vom Abwurfstapel auf den Nachziehstapel. NL Erhalte im nächsten Zug [E] [E] ."
   },
   "bronze:Safeguard": {
-    "NAME": "Hochladen",
+    "NAME": "Cybersicherheit",
     "DESCRIPTION": "Erhalte !B! Block.",
     "EXTENDED_DESCRIPTION": [
       "frühes",

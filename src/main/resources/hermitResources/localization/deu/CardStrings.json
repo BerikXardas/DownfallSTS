@@ -53,7 +53,7 @@
   },
   "hermit:Dissolve": {
     "NAME": "Auflösen",
-    "DESCRIPTION": "Erhalte !M! Block. NL Erhalte 2 expansioncontent:Verschwimmen. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. NL Erhalte 2 expansioncontent:Verschwimmen. NL Erschöpft."
   },
   "hermit:BlackWind": {
     "NAME": "Schwarzer Wind",
@@ -111,7 +111,7 @@
   },
   "hermit:Midnight": {
     "NAME": "Mitternacht",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm das *Drohende *Verhängnis auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Nimm das *Drohende *Unheil auf die Hand."
   },
   "hermit:Glare": {
     "NAME": "Starren",
@@ -136,7 +136,7 @@
     "DESCRIPTION": "Erhalte !M! expansioncontent:Panzerrüstung. NL hermit:Volltreffer: NL Erhalte !hermit:SecondMagic! Gold. NL Erschöpft."
   },
   "hermit:ImpendingDoom": {
-    "NAME": "Drohendes Verhängnis",
+    "NAME": "Drohendes Unheil",
     "DESCRIPTION": "Unspielbar. NL Ist diese Karte am Ende des Zuges in hermit:Volltreffer Position, fügt sie ALLEN 13 Schaden zu."
   },
   "hermit:MementoCard": {

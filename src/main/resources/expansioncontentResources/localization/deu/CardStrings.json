@@ -55,8 +55,8 @@
   },
   "expansioncontent:SuperPrepareCrush": {
     "NAME": "Vor-Schmettern",
-    "DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!, [E] [E] [E] und !M! Stärke. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Erhalte im nächsten Zug *ZERSCHMETTERN!+, [E] [E] [E] [E] und !M! Stärke. NL Erschöpft.",
+    "DESCRIPTION": "Erhalte im nächsten Zug [E] [E] [E], *ZERSCHMETTERN! und !M! Stärke. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Erhalte im nächsten Zug [E] [E] [E] [E], *ZERSCHMETTERN!+ und !M! Stärke. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "~Schleim~ ~...~ NL #r~ZERSCHMETTERN!!!~"
     ]

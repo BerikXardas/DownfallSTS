@@ -53,7 +53,7 @@
   "Slimebound:DuplicatedForm": {
     "NAME": "Gespaltene Form",
     "DESCRIPTION": "Die erste in deinem Zug gespielte Karte, die auf Gegner abzielt, wird zweimal gespielt.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [E] . NL Die erste in deinem Zug gespielte Karte, die auf Gegner abzielt, wird zweimal gespielt.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deines Zuges [E]. NL Die erste in deinem Zug gespielte Karte, die auf Gegner abzielt, wird zweimal gespielt.",
     "EXTENDED_DESCRIPTION": [
       "Brauche... TP..."
     ]
@@ -103,7 +103,7 @@
   },
   "Slimebound:GrowthPunch": {
     "NAME": "Wachstumshieb",
-    "DESCRIPTION": "Erhalte !B! Block. NL Füge !D! Schaden zu. NL slimeboundmod:Konsum: Erhöhe die Wirkung dieser Karte für diesen Kampf um !M!."
+    "DESCRIPTION": "Erhalte !B! Block. NL Füge !D! Schaden zu. NL slimeboundmod:Konsum: Erhöhe Block und Schaden um !M!."
   },
   "Slimebound:HauntingLick": {
     "NAME": "Schauerwabbel",
@@ -178,8 +178,8 @@
   },
   "Slimebound:OneTwoCombo": {
     "NAME": "Doppel-Combo",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du dich slimeboundmod:abspaltest.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando zweimal. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du dich slimeboundmod:abspaltest."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du slimeboundmod:abspaltest.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando zweimal. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du slimeboundmod:abspaltest."
   },
   "Slimebound:OozeBath": {
     "NAME": "Schlammbad",
@@ -193,8 +193,8 @@
   },
   "Slimebound:Prepare": {
     "NAME": "Vorbereiten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, ziehe !M! Karten und erhalte [E] . NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Im nächsten Zug, ziehe !M! Karten und erhalte [E] . NL Behalte in diesem Zug bis zu !M! Karten. Erschöpft."
+    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, NL ziehe !M! Karten und NL erhalte [E]. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Im nächsten Zug, ziehe !M! Karten und erhalte [E]. NL Behalte in diesem Zug bis zu !M! Karten. Erschöpft."
   },
   "Slimebound:PrepareCrush": {
     "NAME": "SCHLEIM...",
@@ -368,7 +368,7 @@
   },
   "Slimebound:TongueLash": {
     "NAME": "Zungenpeitsche",
-    "DESCRIPTION": "Füge !D! Schaden zu. Erhöhe den Schaden für jede *erschöpfte *Wabbel Karte um !M!."
+    "DESCRIPTION": "Füge !D! Schaden zu. Den Schaden für jede *erschöpfte *Wabbel Karte um !M! erhöht."
   },
   "Slimebound:ViciousTackle": {
     "NAME": "Bösartiger Tackle",

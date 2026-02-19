@@ -125,7 +125,7 @@
   },
   "sneckomod:MintCondition": {
     "NAME": "Überproduktion",
-    "DESCRIPTION": "sneckomod:Überschuss: Erhalte !M! Stärke."
+    "DESCRIPTION": "sneckomod:Überschuss: Erhalte NL !M! Stärke."
   },
   "sneckomod:MixItUp": {
     "NAME": "Durchschütteln",
@@ -531,8 +531,8 @@
   },
   "sneckomod:Belittle": {
     "NAME": "Herabsetzen",
-    "DESCRIPTION": "Der Gegner verliert für jeden verschiedenen Debuff !M! TP. NL sneckomod:Geschenk: Ungewöhnlicher Debuff.",
-    "DESCRIPTION_BATTLE": "Der Gegner verliert für jeden verschiedenen Debuff !M! TP."
+    "DESCRIPTION": "Der Gegner verliert für jeden seiner Debuffs !M! TP. NL sneckomod:Geschenk: Ungewöhnlicher Debuff.",
+    "DESCRIPTION_BATTLE": "Der Gegner verliert für jeden seiner Debuffs !M! TP."
   },
   "sneckomod:Jackpot": {
     "NAME": "Jackpot",
@@ -611,7 +611,7 @@
   },
   "sneckomod:SerpentineSleuth": {
     "NAME": "Vipernmacht",
-    "DESCRIPTION": "Flüchtig. NL Erhalte immer, wenn du eine Macht spielst, [E]. NL sneckomod:Geschenk: Seltene Macht.",
-    "DESCRIPTION_BATTLE": "Flüchtig. NL Erhalte immer, wenn du eine Macht spielst, [E]."
+    "DESCRIPTION": "Flüchtig. NL Erhalte immer, wenn du eine Macht NL spielst, [E]. NL sneckomod:Geschenk: Seltene Macht.",
+    "DESCRIPTION_BATTLE": "Flüchtig. NL Erhalte immer, wenn du eine Macht NL spielst, [E]."
   }
 }

@@ -52,7 +52,7 @@
   },
   "Guardian:FierceBash": {
     "NAME": "Erbitterter Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege diese Karte in guardianmod:Stasis. NL guardianmod:Ticken - Erhöhe den Schaden dieser Karte um !M!."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege diese Karte in guardianmod:Stasis. NL guardianmod:Ticken - Erhöhe den Schaden um !M!."
   },
   "Guardian:PolyBeam": {
     "NAME": "Poly-Strahl",
@@ -245,7 +245,7 @@
   },
   "Guardian:RollAttack": {
     "NAME": "Rollender Angriff",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Trifft im *Defensivmodus ALLE Gegner. Erhalte anderenfalls guardianmod:Abhärten 8."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Trifft ALLE Gegner im *Defensivmodus. Anderenfalls: guardianmod:Abhärten 8."
   },
   "Guardian:GemFire": {
     "NAME": "Juwelenkanone",
@@ -254,7 +254,7 @@
   },
   "Guardian:ChargeCore": {
     "NAME": "Kernladung",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege diese Karte in guardianmod:Stasis. NL guardianmod:Ticken - Ziehe eine Karte. NL guardianmod:Volatil."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Lege diese Karte in guardianmod:Stasis. NL guardianmod:Ticken - Ziehe eine Karte. guardianmod:Volatil."
   },
   "Guardian:Reroute": {
     "NAME": "Umsteuern",
@@ -296,7 +296,7 @@
   },
   "Guardian:MultiBeam": {
     "NAME": "Multistrahl",
-    "DESCRIPTION": "Füge ALLEN Gegnern X mal !D! Schaden zu. NL guardianmod:Ticken - Erhöhe den Schaden dieser Karte um !M!."
+    "DESCRIPTION": "Füge ALLEN Gegnern X mal !D! Schaden zu. NL guardianmod:Ticken - Erhöhe den Schaden um !M!."
   },
   "Guardian:BaubleBeam": {
     "NAME": "Orb-Fassung",

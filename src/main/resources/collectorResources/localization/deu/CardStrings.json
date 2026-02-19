@@ -36,7 +36,7 @@
   },
   "collector:BlackBindings": {
     "NAME": "Dunkle Bandagen",
-    "DESCRIPTION": "Wende !M! Schwach an. Wende danach für jeden verschiedenen Debuff !clm2! collector:Verdammnis an."
+    "DESCRIPTION": "Wende !M! Schwach an. Wende danach für jeden Debuff des Gegners !clm2! collector:Verdammnis an."
   },
   "collector:Blightning": {
     "NAME": "Fäulnisblitz",
@@ -599,7 +599,7 @@
   },
   "collector:ScrapOozeCard": {
     "NAME": "Schrottschlamm",
-    "DESCRIPTION": "collector:Opfergabe. NL Verliere 3 TP. NL Erhalte !M! zufällige Angriffe. NL Sie kosten diesen Zug 0."
+    "DESCRIPTION": "collector:Opfergabe. NL Verliere 3 TP. NL Erhalte !M! zufällige Angriffe. NL Sie kosten diesen NL Zug 0."
   },
   "collector:SentryCard": {
     "NAME": "Wache",
@@ -695,6 +695,6 @@
   },
   "collector:Sapped": {
     "NAME": "Ausgesaugt",
-    "DESCRIPTION": "collector:Opfergabe. NL Wenn diese Karte gezogen wird, verliere [E] . NL Erschöpft. NL Kann nicht aus dem Deck entfernt werden."
+    "DESCRIPTION": "collector:Opfergabe. NL Wenn diese Karte gezogen wird, verliere [E]. NL Erschöpft. NL Kann nicht aus dem Deck entfernt werden."
   }
 }

@@ -81,16 +81,16 @@
   },
   "champ:FanOfKnives": {
     "NAME": "Klingensturm",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL champ:Offensivcombo: Trifft zweimal.",
-    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL champ:Offensivcombo: Trifft drei Mal."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL champ:Offensivcombo: NL Trifft zweimal.",
+    "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL champ:Offensivcombo: NL Trifft drei Mal."
   },
   "champ:Devastate": {
     "NAME": "Verwüsten",
-    "DESCRIPTION": "Füge !M! Mal !D! Schaden zu. Kostet 1 [E] weniger für jeden *Abschluss, der in diesem Kampf gespielt wurde."
+    "DESCRIPTION": "Füge !M! Mal !D! Schaden zu. Kostet [E] weniger für jeden *Abschluss, der in diesem Kampf gespielt wurde."
   },
   "champ:Circumvent": {
     "NAME": "Überlisten",
-    "DESCRIPTION": "Erhalte !B! Block. NL Ziehe !M! Karten. NL Wirf !M! Karten ab. NL champ:Defensivcombo: Wirf keine Karten ab."
+    "DESCRIPTION": "Erhalte !B! Block. NL Ziehe !M! Karten. NL Wirf !M! Karten ab. NL champ:Defensivcombo: NL Wirf keine Karten ab."
   },
   "champ:SkillfulDodge": {
     "NAME": "Elegantes Ducken",
@@ -133,8 +133,8 @@
   },
   "champ:FalseCounter": {
     "NAME": "Antäuschen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, ziehe 2 Karten und NL erhalte [E] .",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, ziehe 2 Karten und NL erhalte [E] [E] ."
+    "DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, ziehe 2 Karten und NL erhalte [E].",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Im nächsten Zug, ziehe 2 Karten und NL erhalte [E] [E]."
   },
   "champ:IronFortress": {
     "NAME": "Launiges Zappeln",
@@ -166,7 +166,7 @@
   },
   "champ:PreciseThrust": {
     "NAME": "Präziser Stoß",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Füge !D! Schaden zu. NL champ:Defensivcombo: Erhalte !B! Block."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: NL Füge !D! Schaden zu. NL champ:Defensivcombo: NL Erhalte !B! Block."
   },
   "champ:CrookedStrike": {
     "NAME": "Dosierter Schlag",
@@ -178,7 +178,7 @@
   },
   "champ:EnchantSword": {
     "NAME": "Schwertzauber",
-    "DESCRIPTION": "Wähle eine Handkarte. Erhöhe ihren Schaden für diesen Kampf um !M!. NL Erschöpft.",
+    "DESCRIPTION": "Wähle eine Handkarte. Erhöhe ihren Schaden für diesen Kampf NL um !M!. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Ein miserabler Zeitpunkt dafür."
     ]
@@ -213,9 +213,9 @@
   },
   "champ:EnragedBash": {
     "NAME": "Brutaler Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Trifft in diesem Kampf ein weiteres Mal.",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: NL Trifft in diesem Kampf ein weiteres Mal.",
     "EXTENDED_DESCRIPTION": [
-      "Füge !M! Mal !D! Schaden zu. NL champ:Offensivcombo: Trifft in diesem Kampf ein weiteres Mal."
+      "Füge !M! Mal !D! Schaden zu. NL champ:Offensivcombo: NL Trifft in diesem Kampf ein weiteres Mal."
     ]
   },
   "champ:VampiricStrike": {
@@ -236,7 +236,7 @@
   },
   "champ:CrownThrow": {
     "NAME": "Kronerang",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Ziehe !M! Karten."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: NL Ziehe !M! Karten."
   },
   "champ:Encircle": {
     "NAME": "Umkreisen",
@@ -277,14 +277,14 @@
     "EXTENDED_DESCRIPTION": [
       "champ:Offensivcombo: Füge X Mal !D! Schaden zu. NL ",
       "champ:Defensivcombo: Erhalte X Mal !B! Block.",
-      "Gladiator: Ziehe eine Karte und erhalte [E] .",
-      "Gladiator: Ziehe 2 Karte und erhalte [E] .",
+      "Gladiator: Ziehe eine Karte und erhalte [E].",
+      "Gladiator: Ziehe 2 Karte und erhalte [E].",
       "champ:Combo NL "
     ]
   },
   "champ:Improvising": {
     "NAME": "Improvisation",
-      "DESCRIPTION": "Immer wenn du eine *Haltung annimst, aktiviere ihren champ:Fertigkeitsbonus !M! Mal."
+      "DESCRIPTION": "Immer wenn du eine *Haltung annimst, aktiviere ihren champ:Fertigkeitsbonus NL !M! Mal."
   },
   "champ:CalledShot": {
     "NAME": "Erfrischung",
@@ -312,7 +312,7 @@
   },
   "champ:DancingMaster": {
     "NAME": "Tanzchampion",
-    "DESCRIPTION": "Wenn du das erste Mal im Zug einen champ:Abschluss spielst, ziehe 1 Karte und erhalte [E] ."
+    "DESCRIPTION": "Wenn du das erste Mal im Zug einen champ:Abschluss spielst, ziehe 1 Karte und erhalte [E]."
   },
   "champ:StrikeOfGenius": {
     "NAME": "Genieschlag",

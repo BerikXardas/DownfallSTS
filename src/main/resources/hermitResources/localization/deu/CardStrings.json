@@ -145,7 +145,7 @@
   },
   "hermit:Shortfuse": {
     "NAME": "Kurze Lunte",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Kostet diesen Zug 1 [E] weniger pro gespielte Basis *Schlag oder *Verteidigen Karte in diesem Zug."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Kostet diesen Zug [E] weniger pro gespielte Basis *Schlag oder *Verteidigen Karte in diesem Zug."
   },
   "hermit:Grudge": {
     "NAME": "Unwesen",
@@ -199,7 +199,7 @@
   },
   "hermit:OverwhelmingPower": {
     "NAME": "Ausufernde Macht",
-    "DESCRIPTION": "Erhalte [E] [E] [E]. NL Ziehe !hermit:SecondMagic! Karten. NL Immer wenn du deinen Zug mit 0 Energie beendest, verliere !M! TP."
+    "DESCRIPTION": "Erhalte [E] [E] [E]. NL Ziehe !hermit:SecondMagic! Karten. NL Immer wenn du deinen Zug mit 0 Energie beendest, verliere NL !M! TP."
   },
   "hermit:Maintenance": {
     "NAME": "Wartung",
@@ -268,7 +268,7 @@
   },
   "hermit:Showdown": {
     "NAME": "Showdown",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Spiele alle *Schläge in deiner Hand aus."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Spiele alle Basis *Schläge in deiner Hand aus."
   },
   "hermit:LuckOfTheDraw": {
     "NAME": "Glückszug",

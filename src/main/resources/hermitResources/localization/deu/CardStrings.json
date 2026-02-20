@@ -190,8 +190,8 @@
   },
   "hermit:Combo": {
     "NAME": "Combo",
-    "DESCRIPTION": "Nimm in jedem Zug die erste Karte, die einen hermit:Volltreffer ausgelöst hat, wieder auf die Hand.",
-    "UPGRADE_DESCRIPTION": "Nimm in jedem Zug die ersten !M! Karten, die einen hermit:Volltreffer ausgelöst haben, wieder auf die Hand."
+    "DESCRIPTION": "Nimm in jedem Zug die erste Karte, NL die einen hermit:Volltreffer ausgelöst hat, wieder auf die Hand.",
+    "UPGRADE_DESCRIPTION": "Nimm in jedem Zug die ersten !M! Karten, NL die einen hermit:Volltreffer ausgelöst haben, wieder auf die Hand."
   },
   "hermit:BigShot": {
     "NAME": "Rauchender Colt",

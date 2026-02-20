@@ -5,7 +5,7 @@
   },
   "sneckomod:Tsunami": {
     "NAME": "Überfluss",
-    "DESCRIPTION": "sneckomod:Überschuss Effekte verleihen zusätzlich !M! Block."
+    "DESCRIPTION": "sneckomod:Überschuss Effekte verleihen zusätzlich NL !M! Block."
   },
   "sneckomod:CheapStock": {
     "NAME": "Ladenhüter",
@@ -125,7 +125,7 @@
   },
   "sneckomod:MintCondition": {
     "NAME": "Überproduktion",
-    "DESCRIPTION": "sneckomod:Überschuss: Erhalte NL !M! Stärke."
+    "DESCRIPTION": "sneckomod:Überschuss: NL Erhalte !M! Stärke."
   },
   "sneckomod:MixItUp": {
     "NAME": "Durchschütteln",
@@ -156,7 +156,7 @@
   },
   "sneckomod:PoisonParadise": {
     "NAME": "Überdosis",
-    "DESCRIPTION": "sneckomod:Überschuss Effekte wenden zusätzlich !M! sneckomod:Toxin auf einen zufälligen Gegner an."
+    "DESCRIPTION": "sneckomod:Überschuss Effekte wenden zusätzlich NL !M! sneckomod:Toxin auf einen zufälligen Gegner an."
   },
   "sneckomod:PureSnecko": {
     "NAME": "Verlagern",
@@ -440,8 +440,8 @@
   },
   "sneckomod:Behold": {
     "NAME": "Alle Hände voll",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: Erhalte !M! Messer.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: Erhalte !M! Messer."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: NL Erhalte !M! Messer.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: NL Erhalte !M! Messer."
   },
   "sneckomod:SaveForLater": {
     "NAME": "Übriglassen",
@@ -578,7 +578,7 @@
   },
   "sneckomod:PerpetualSerpent": {
     "NAME": "Ewige Schlange",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: Erhalte NL [E] [E]."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: NL Erhalte [E] [E]."
   },
   "sneckomod:LastStrike": {
     "NAME": "Meisterschlag",

@@ -481,7 +481,7 @@
     "DESCRIPTION": "Erhalte !M! expansioncontent:temporäre_TP. NL collector:Fackelkopf: \"Ziehe 1 Karte.\""
   },
   "collector:FinalBossCard": {
-    "NAME": "Endspiel",
+    "NAME": "Finale",
     "DESCRIPTION": "Entferne den *Unverwundbar Buff des Gegners und hermit:betäube ihn. NL Erschöpft."
   },
   "collector:FaceTraderCard": {
@@ -586,7 +586,7 @@
     "DESCRIPTION": "Der Gegner verliert in diesem Zug !M! Stärke."
   },
   "collector:ReptomancerCard": {
-    "NAME": "Reptomantin",
+    "NAME": "Reptilomantin",
     "DESCRIPTION": "Erhalte !M! expansioncontent:temporäre_TP. NL collector:Fackelkopf: \"Wende !clm2! Gift auf einen zufälligen Gegner an.\""
   },
   "collector:RepulsorCard": {
@@ -694,7 +694,7 @@
     "DESCRIPTION": "collector:Opfergabe. NL Wende !M! Schwach und !M! Verwundbar an. NL Erhalte !clm2! expansioncontent:temporäre_TP."
   },
   "collector:Sapped": {
-    "NAME": "Ausgesaugt",
+    "NAME": "Ausgelaugt",
     "DESCRIPTION": "collector:Opfergabe. NL Wenn diese Karte gezogen wird, verliere [E]. NL Erschöpft. NL Kann nicht aus dem Deck entfernt werden."
   }
 }

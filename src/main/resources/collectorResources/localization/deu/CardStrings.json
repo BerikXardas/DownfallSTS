@@ -406,7 +406,7 @@
   },
   "collector:Wildfire": {
     "NAME": "Waldbrand",
-    "DESCRIPTION": "Füge für jeden verschiedenen Debuff des Gegners !D! Schaden zu."
+    "DESCRIPTION": "Füge für jeden Debuff des Gegners !D! Schaden zu."
   },
   "collector:YouAreMine": {
     "NAME": "Du gehörst mir!",

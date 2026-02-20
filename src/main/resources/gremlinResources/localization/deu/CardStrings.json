@@ -174,7 +174,7 @@
 
   "Gremlin:Fury": {
     "NAME": "Raserei",
-    "DESCRIPTION": "Kostet 1 [E] weniger für jede 2 deiner Stärke. NL Füge 3 Mal !D! Schaden zu."
+    "DESCRIPTION": "Kostet [E] weniger pro 2 deiner Stärke. NL Füge 3 Mal !D! Schaden zu."
   },
 
   "Gremlin:Glimmer": {
@@ -239,7 +239,7 @@
 
   "Gremlin:IrksomeBlow": {
     "NAME": "Lästiger Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst den *Lästigen *Hieb !M! Mal."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Stärke beeinflusst den Lästigen Hieb !M! Mal."
   },
 
   "Gremlin:Irritability": {

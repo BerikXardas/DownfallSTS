@@ -136,7 +136,7 @@
   "Guardian:SentryWave": {
     "NAME": "Wache-Welle",
     "DESCRIPTION": "Wende !M! Schwach an. NL Lege einen *Wache-Strahl in guardianmod:Stasis. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Wende !M! Schwach an. NL guardianmod:Abhärten 2. NL Lege einen *Wache-Strahl+ in guardianmod:Stasis. NL Erschöpft."
+    "UPGRADE_DESCRIPTION": "Wende !M! Schwach an. guardianmod:Abhärten 2. Lege einen *Wache-Strahl+ in guardianmod:Stasis. NL Erschöpft."
   },
   "Guardian:CompilePackage": {
     "NAME": "Paket kompilieren",

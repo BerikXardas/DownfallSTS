@@ -32,7 +32,7 @@
     "UPGRADE_DESCRIPTION": "Behalten. NL Nimm eine zufällige *Haltung an, in der du dich nicht befindest."
   },
   "champ:SwordSigil": {
-    "NAME": "Siegesbanner",
+    "NAME": "Kriegsbanner",
     "DESCRIPTION": "Aktiviere den champ:Fertigkeitsbonus deiner *Haltung !M! Mal."
   },
   "champ:FaceSlap": {
@@ -40,7 +40,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Offensivcombo: Wende !M! Verwundbar an."
   },
   "champ:FlashCut": {
-    "NAME": "Vorschlag",
+    "NAME": "Rückschlag",
     "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Defensivcombo: Erhalte !M! champ:Konter und !B! Block."
   },
   "champ:DefensiveShout": {
@@ -128,7 +128,7 @@
     "NAME": "Schildwurf",
     "DESCRIPTION": "Füge 2 Mal Schaden in Höhe deines Blocks zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block.",
     "EXTENDED_DESCRIPTION": [
-      "Füge 2 Mal Schaden in Höhe deines Blocks ( !D! ) zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block."
+      "Füge 2 Mal Schaden in Höhe deines Blocks (!D!) zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block."
     ]
   },
   "champ:FalseCounter": {
@@ -173,7 +173,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Verbraucht keinen *Elan."
   },
   "champ:RapidStrikes": {
-    "NAME": "Rapide Schläge",
+    "NAME": "Überschlag",
     "DESCRIPTION": "Füge !M! Mal !D! Schaden zu. Eine zufällige Schlag Karte auf deiner Hand kostet in diesem Zug 0."
   },
   "champ:EnchantSword": {
@@ -209,7 +209,7 @@
   },
   "champ:Shatter": {
     "NAME": "Zerbersten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Combo (jede Haltung): Wende !M! Schwach und Verwundbar an."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL champ:Combo (jede Haltung): Wende !M! Schwach und !M! Verwundbar an."
   },
   "champ:EnragedBash": {
     "NAME": "Brutaler Hieb",
@@ -342,7 +342,7 @@
   },
   "champ:PreemptiveStrike": {
     "NAME": "Präventivschlag",
-    "DESCRIPTION": "Füge ALLEN Gegnern Schaden in Höhe deines champ:Konters zu. Verliere die Hälfte des champ:Konters. NL champ:Defensivcombo: Verliere kein champ:Konter.",
+    "DESCRIPTION": "Füge ALLEN Gegnern Schaden in Höhe deines champ:Konters zu. Verliere die Hälfte des champ:Konters. champ:Defensivcombo: Verliere kein champ:Konter.",
     "EXTENDED_DESCRIPTION": [
       " NL (Fügt !D! Schaden zu)",
       "Ein miserabler Zeitpunkt dafür."
@@ -365,7 +365,7 @@
     "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu."
   },
   "champ:UltimateStance": {
-    "NAME": "Ultimativ",
+    "NAME": "Siegespose",
     "DESCRIPTION": "Während deines nächsten Zuges bist du in der champ:Ultimativen *Haltung. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Erfordert eine *Haltung. NL Nimm die champ:Ultimative *Haltung für !M! Züge an.",
     "EXTENDED_DESCRIPTION": [

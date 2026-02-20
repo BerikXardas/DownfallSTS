@@ -93,7 +93,7 @@
     "DESCRIPTION": "Wende !slime! slimeboundmod:Glibber und !M! Schwach auf ALLE Gegner an."
   },
   "Slimebound:GoopTackle": {
-    "NAME": "Tackle-Combo",
+    "NAME": "Doppeltackle",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erleide !SlimeboundSelfharm! Schaden. NL Erhalte eine zufällige *Tackle Karte. Sie kostet diesen Zug 0.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erleide !SlimeboundSelfharm! Schaden. NL Erhalte eine zufällige verbesserte *Tackle Karte. Sie kostet diesen Zug 0."
   },
@@ -111,7 +111,7 @@
     "UPGRADE_DESCRIPTION": "Wende !M! Verwundbar und !slime! slimeboundmod:Glibber an. NL Ziehe eine Karte. NL Erschöpft."
   },
   "Slimebound:HungryTackle": {
-    "NAME": "Hungriger Tackle",
+    "NAME": "Feuchter Tackle",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erleide !SlimeboundSelfharm! Schaden. NL expansioncontent:Exhumiere eine zufällige *Wabbel Karte.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erleide !SlimeboundSelfharm! Schaden. NL expansioncontent:Exhumiere 2 zufällige *Wabbel Karten."
   },
@@ -131,7 +131,7 @@
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. slimeboundmod:Konsum: Erhalte [E] und ziehe !M! Karten."
   },
   "Slimebound:LeechLife": {
-    "NAME": "Leben aussaugen",
+    "NAME": "Aussaugen",
     "DESCRIPTION": "Flüchtig. NL Füge !D! Schaden zu. Heile TP in Höhe des ungeblockten Schadens. NL Erschöpft."
   },
   "Slimebound:LeechingTouch": {
@@ -177,7 +177,7 @@
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte einen *Wabbel. NL Ziehe eine Karte. NL Erschöpft."
   },
   "Slimebound:OneTwoCombo": {
-    "NAME": "Doppel-Combo",
+    "NAME": "Doppelangriff",
     "DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du slimeboundmod:abspaltest.",
     "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL slimeboundmod:Kommando zweimal. NL Nimm diese Karte vom Abwurfstapel auf die Hand, immer wenn du slimeboundmod:abspaltest."
   },
@@ -260,7 +260,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Du erleidest keinen Schaden von den nächsten !M! *Tackle Karten."
   },
   "Slimebound:SamplingLick": {
-    "NAME": "Prüfender Wabbel",
+    "NAME": "Harter Wabbel",
     "DESCRIPTION": "Wende !slime! slimeboundmod:Glibber an. NL Erhalte !B! Block. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Wende !slime! slimeboundmod:Glibber an. NL Erhalte !B! Block. NL Ziehe eine Karte. NL Erschöpft."
   },

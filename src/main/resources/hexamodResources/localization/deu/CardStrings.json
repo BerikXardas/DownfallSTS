@@ -259,8 +259,8 @@
   },
   "hexamod:PowerFromBeyond": {
     "NAME": "Macht der Geister",
-    "DESCRIPTION": "Flüchtig. [#e087a4]Reinkarnation.[] NL [#e087a4]Im[] [#e087a4]nächsten[] [#e087a4]Zug,[] [#e087a4]ziehe[] !M! [#e087a4]Karten[] und erhalte [E]. NL ",
-    "UPGRADE_DESCRIPTION": "Flüchtig. [#e087a4]Reinkarnation.[] NL [#e087a4]Im[] [#e087a4]nächsten[] [#e087a4]Zug,[] [#e087a4]ziehe[] !M! [#e087a4]Karten[] und erhalte [E] [E]. NL ",
+    "DESCRIPTION": "Flüchtig. [#e087a4]Reinkarnation.[] NL [#e087a4]Im[] [#e087a4]nächsten[] [#e087a4]Zug,[] [#e087a4]ziehe[] !M! [#e087a4]Karten[] und NL erhalte [E]. NL ",
+    "UPGRADE_DESCRIPTION": "Flüchtig. [#e087a4]Reinkarnation.[] NL [#e087a4]Im[] [#e087a4]nächsten[] [#e087a4]Zug,[] [#e087a4]ziehe[] !M! [#e087a4]Karten[] und NL erhalte [E] [E]. NL ",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -385,8 +385,8 @@
   },
   "hexamod:TurnItUp": {
     "NAME": "Aufgedreht",
-    "DESCRIPTION": "Erhalte für diesen Zug *temporär !M! hexamod:Intensität, !M! Stärke, und !M! Geschicklichkeit.",
-    "UPGRADE_DESCRIPTION": "Behalten. NL Erhalte für diesen Zug temporär !M! hexamod:Intensität, !M! Stärke, und !M! Geschicklichkeit."
+    "DESCRIPTION": "Erhalte für diesen Zug *temporär !M! hexamod:Intensität, !M! Stärke, und NL !M! Geschicklichkeit.",
+    "UPGRADE_DESCRIPTION": "Behalten. NL Erhalte für diesen Zug temporär !M! hexamod:Intensität, !M! Stärke, und NL !M! Geschicklichkeit."
   },
   "hexamod:UnleashSpirits": {
     "NAME": "Geister rufen",

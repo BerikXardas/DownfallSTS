@@ -21,12 +21,12 @@
     ]
   },
   "sneckomod:DangerNoodle": {
-    "NAME": "Ramenbedingung",
+    "NAME": "Verrückte Nudel",
     "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Irre eine Karte. NL sneckomod:Geschenk: Kosten von mindestens 3.",
     "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL sneckomod:Irre eine Karte."
   },
   "sneckomod:Deception": {
-    "NAME": "Erschrecken",
+    "NAME": "Verwirren",
     "DESCRIPTION": "Erhalte !B! Block. NL Erhalte eine *Schockwelle. NL Erschöpft."
   },
   "sneckomod:Defend": {
@@ -164,8 +164,8 @@
   },
   "sneckomod:QuickBite": {
     "NAME": "Snek-Reflex",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karte und sneckomod:irre sie.",
-    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten und sneckomod:irre sie."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karte und NL sneckomod:irre sie.",
+    "UPGRADE_DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten und NL sneckomod:irre sie."
   },
   "sneckomod:QuickMove": {
     "NAME": "Flinke Bewegung",
@@ -268,8 +268,8 @@
     ]
   },
   "sneckomod:TailWhip": {
-    "NAME": "Rutenschlag",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: Wende !M! Schwach und Verwundbar an."
+    "NAME": "Rutenhieb",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Überschuss: Wende !M! Schwach und !M! Verwundbar an."
   },
   "sneckomod:Transmogrify": {
     "NAME": "Replikator",
@@ -291,7 +291,7 @@
     ]
   },
   "sneckomod:TrashToTreasure": {
-    "NAME": "Schrott zu Schatz",
+    "NAME": "Verwerten",
     "DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Karte. NL Erhalte [E] in Höhe ihrer Kosten. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Erschöpfe eine Karte. NL Erhalte [E] in Höhe ihrer Kosten."
   },
@@ -530,7 +530,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Der Gegner erleidet am Ende seiner Züge !M! Schaden. NL sneckomod:Geschenk: Seltener Angriff."
   },
   "sneckomod:Belittle": {
-    "NAME": "Herabsetzen",
+    "NAME": "Niedermachen",
     "DESCRIPTION": "Der Gegner verliert für jeden seiner Debuffs !M! TP. NL sneckomod:Geschenk: Ungewöhnlicher Debuff.",
     "DESCRIPTION_BATTLE": "Der Gegner verliert für jeden seiner Debuffs !M! TP."
   },
@@ -611,7 +611,7 @@
   },
   "sneckomod:SerpentineSleuth": {
     "NAME": "Vipernmacht",
-    "DESCRIPTION": "Flüchtig. NL Erhalte immer, wenn du eine Macht NL spielst, [E]. NL sneckomod:Geschenk: Seltene Macht.",
-    "DESCRIPTION_BATTLE": "Flüchtig. NL Erhalte immer, wenn du eine Macht NL spielst, [E]."
+    "DESCRIPTION": "Flüchtig. NL Erhalte für jede ausgespielte Macht [E]. NL sneckomod:Geschenk: Seltene Macht.",
+    "DESCRIPTION_BATTLE": "Flüchtig. NL Erhalte für jede ausgespielte Macht [E]."
   }
 }

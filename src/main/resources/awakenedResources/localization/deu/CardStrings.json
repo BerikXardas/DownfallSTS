@@ -220,8 +220,8 @@
   },
   "awakened:DarknessFalls": {
     "NAME": "Ringfinsternis",
-    "DESCRIPTION": "Erhalte immer, wenn awakened:ausgelaugt wirst, !M! Block und !awakened:m2! Stärke.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte immer, wenn awakened:ausgelaugt wirst, !M! Block und !awakened:m2! Stärke."
+    "DESCRIPTION": "Erhalte immer, wenn awakened:ausgelaugt wirst, NL !M! Block und !awakened:m2! Stärke.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte immer, wenn awakened:ausgelaugt wirst, NL !M! Block und !awakened:m2! Stärke."
   },
   "awakened:Eventide": {
     "NAME": "Dämmerung",

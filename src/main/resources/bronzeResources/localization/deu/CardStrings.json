@@ -283,8 +283,8 @@
   },
   "bronze:Goto": {
     "NAME": "Aktualisieren",
-    "DESCRIPTION": "Ziehe !M! Karte. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karte.",
-    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! Karten.",
+    "DESCRIPTION": "Ziehe !M! Karte. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! zusätzliche Karte.",
+    "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL bronze:Kompilierung: Ziehe im nächsten Zug !M! zusätzliche Karten.",
     "EXTENDED_DESCRIPTION": [
       "schnelles",
       "Update"
@@ -435,7 +435,7 @@
   },
   "bronze:Separator": {
     "NAME": "Separator",
-    "DESCRIPTION": "Füge !D! Schaden zu. \u202F Wird im ersten Slot mit !M! mehr Schaden *kodiert.",
+    "DESCRIPTION": "Füge !D! Schaden zu. \u202F Wird in mittleren Slots mit !M! mehr Schaden *kodiert.",
     "EXTENDED_DESCRIPTION": [
       "geteiltes",
       "Areal"

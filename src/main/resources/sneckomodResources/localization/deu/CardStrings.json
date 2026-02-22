@@ -34,7 +34,7 @@
     "DESCRIPTION": "Erhalte !B! Block."
   },
   "sneckomod:DefensiveFlair": {
-    "NAME": "Defensives Gespür",
+    "NAME": "Kreative Abwehr",
     "DESCRIPTION": "Erhalte !B! Block. NL Block wird für jede Handkarte aus sneckomod:Fremdklassen um !M! erhöht. NL sneckomod:Geschenk: Ungewöhnlich.",
     "DESCRIPTION_BATTLE": "Erhalte !B! Block. NL Block wird für jede Handkarte aus sneckomod:Fremdklassen um !M! erhöht."
   },
@@ -346,7 +346,7 @@
     "UPGRADE_DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team."
   },
   "sneckomod:UnknownCommonAttack": {
-    "NAME": "??? G Attack",
+    "NAME": "??? G Angriff",
     "DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team.",
     "UPGRADE_DESCRIPTION": "Diese Karte sollte nicht auftauchen. NL Wenn du das liest, bist du auf einen Bug gestoßen. NL Bitte melde das dem Dev-Team."
   },

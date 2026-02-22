@@ -113,7 +113,7 @@
     "UPGRADE_DESCRIPTION": "Reduziere deine Debuffs um !M!."
   },
   "expansioncontent:SuperTaunt": {
-    "NAME": "Spott",
+    "NAME": "Fieser Spott",
     "DESCRIPTION": "Wende !M! Schwach und !M! Verwundbar an.",
     "UPGRADE_DESCRIPTION": "Wende !M! Schwach und !M! Verwundbar auf ALLE Gegner an."
   },
@@ -215,7 +215,7 @@
     "NAME": "Blutiges Opfer",
     "DESCRIPTION": "Flüchtig. NL Verliere !M! % deiner max. TP. NL Erhalte 1 Ritual. Erschöpft.",
     "EXTENDED_DESCRIPTION":[
-      " NL (Verliere {amount} max. TP. )"
+      " NL (Verliere {amount} max. TP.)"
     ]
   }
 }

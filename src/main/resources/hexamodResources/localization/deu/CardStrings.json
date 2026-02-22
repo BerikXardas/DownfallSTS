@@ -319,7 +319,7 @@
     "DESCRIPTION": "Behalten. NL Füge !D! Schaden zu. NL Erschöpft."
   },
   "hexamod:ShieldOfDarkness": {
-    "NAME": "Schild der Nacht",
+    "NAME": "Nachtschild",
     "DESCRIPTION": "Erhalte !B! Block. NL Spähe !M!. NL Erschöpfe abgeworfene *flüchtige Karten."
   },
   "hexamod:Kindle": {
@@ -337,7 +337,7 @@
   },
   "hexamod:BrightRitual": {
     "NAME": "Grelles Ritual",
-    "DESCRIPTION": "Setze das Geisterrad zurück. Erhalte [E] und ziehe 1 Karte für jede hexamod:gelöschte Geisterflamme. Erschöpft."
+    "DESCRIPTION": "Spring zur ersten Geisterflamme, hexamod:lösche alle, erhalte [E] und ziehe 1 Karte pro *gelöschter. Erschöpft."
   },
   "hexamod:NaughtySpirit": {
     "NAME": "Frecher Geist",
@@ -362,11 +362,11 @@
     "TRANSLATOR_NOTE:": "Not used in game  Not used in game  Not used in game  Not used in game  Not used in game  Not used in game   "
   },
   "hexamod:SwordOfDarkness": {
-    "NAME": "Klinge der Nacht",
+    "NAME": "Nachtschwert",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Spähe !M!. NL Erschöpfe abgeworfene *flüchtige Karten."
   },
   "hexamod:ThermalTransfer": {
-    "NAME": "Thermaltransfer",
+    "NAME": "Thermotransfer",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Erhalte !B! Block, wenn der Gegner *Seelenfeuer hat."
   },
   "hexamod:TimeOfNeed": {
@@ -436,9 +436,9 @@
     "DESCRIPTION": "Flüchtig hexamod:Siegel. NL Verbessere am Ende des Kampfes 1 zufällige Karte für alle 13 unverbesserten Karten im Deck.",
     "UPGRADE_DESCRIPTION": "hexamod:Siegel. NL Verbessere am Ende des Kampfes 1 zufällige Karte für alle 13 unverbesserten Karten im Deck.",
     "EXTENDED_DESCRIPTION": [
-      "( Verbessert ",
-      " Karte. ) NL ",
-      " Karten. ) NL "
+      "(Verbessert ",
+      " Karte.) NL ",
+      " Karten.) NL "
     ]
   },
   "hexamod:LingeringShades": {

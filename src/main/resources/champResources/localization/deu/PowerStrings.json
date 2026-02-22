@@ -242,10 +242,10 @@
     ]
   },
   "champ:DoubleStyleThisTurnPower": {
-    "NAME": "Kettenpeitsche",
+    "NAME": "Doppelter Stil",
     "DESCRIPTIONS": [
-      "In diesem Zug sind die #yFertigkeitsboni um #b",
-      " effektiver."
+      "In diesem Zug geben #yFertigkeitsboni #b",
+      " mehr #yElan und #yKonter [REMOVE_SPACE]."
     ]
   }
 }

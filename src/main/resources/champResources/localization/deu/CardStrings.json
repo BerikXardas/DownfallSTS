@@ -228,10 +228,10 @@
   },
   "champ:HeartStrike": {
     "NAME": "Exekutieren",
-    "DESCRIPTION": "Füge !D! Schaden zu - zweimal wenn seine TP unter !M! % liegen.",
+    "DESCRIPTION": "Füge !D! Schaden zu - zweimal, wenn seine TP unter !M! % liegen.",
     "EXTENDED_DESCRIPTION": [
       "Ein miserabler Zeitpunkt dafür.",
-      "Dieser Gegner kann noch nicht beendet werden."
+      "Dieser Gegner kann noch nicht exekutiert werden."
     ]
   },
   "champ:CrownThrow": {

@@ -43,7 +43,7 @@
     "UPGRADE_DESCRIPTION": "Ziehe !M! Karten. NL Erschöpfe eine Karte. Erhalte *Wabbel in Anzahl der Höhe ihrer Kosten. NL Erschöpft."
   },
   "Slimebound:DivideAndConquer": {
-    "NAME": "Anführen",
+    "NAME": "Kräfte bündeln",
     "DESCRIPTION": "Füge für jeden Schleim einem zufälligen Gegner !D! Schaden zu. NL slimeboundmod:Absorbiere alle Schleime. NL Erschöpft."
   },
   "Slimebound:DouseInSlime": {
@@ -293,7 +293,7 @@
   },
   "Slimebound:SlimeSlap": {
     "NAME": "Schleimschelle",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Dieser Angriff entfernt den slimeboundmod:Glibber nicht."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Dieser Angriff entfernt keinen slimeboundmod:Glibber."
   },
   "Slimebound:SlimeSpikes": {
     "NAME": "Schleimstacheln",

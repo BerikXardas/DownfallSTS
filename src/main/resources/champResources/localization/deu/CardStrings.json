@@ -126,9 +126,9 @@
   },
   "champ:ShieldThrow": {
     "NAME": "Schildwurf",
-    "DESCRIPTION": "Füge 2 Mal Schaden in Höhe deines Blocks zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block.",
+    "DESCRIPTION": "Füge 2 Mal Schaden in Höhe deines *Blocks zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block.",
     "EXTENDED_DESCRIPTION": [
-      "Füge 2 Mal Schaden in Höhe deines Blocks (!D!) zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block."
+      "Füge 2 Mal Schaden in Höhe deines *Blocks (!D!) zu. Bist du nicht in champ:Defensivhaltung, geben Karten im nächsten Zug keinen Block."
     ]
   },
   "champ:FalseCounter": {
@@ -315,7 +315,7 @@
     "DESCRIPTION": "Wenn du das erste Mal im Zug einen champ:Abschluss spielst, ziehe 1 Karte und erhalte [E]."
   },
   "champ:StrikeOfGenius": {
-    "NAME": "Genieschlag",
+    "NAME": "Schlagfertig",
     "DESCRIPTION": "Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen Schlag Karte. NL Es kostet 0 bis du es spielst.",
     "UPGRADE_DESCRIPTION": "Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen verbesserten Schlag Karte. NL Es kostet 0 bis du es spielst."
   },
@@ -383,8 +383,8 @@
   },
   "champ:WindUp": {
     "NAME": "Aufziehen",
-    "DESCRIPTION": "Nimm eine *Haltung deiner Wahl an. NL Schnapp dir einen champ:Abschluss aus dem Nachziehstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Nimm eine *Haltung deiner Wahl an. NL Schnapp dir einen champ:Abschluss aus dem Nachziehstapel.",
+    "DESCRIPTION": "Nimm eine *Haltung deiner Wahl an. NL Schnappe einen champ:Abschluss aus dem Nachziehstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Nimm eine *Haltung deiner Wahl an. NL Schnappe einen champ:Abschluss aus dem Nachziehstapel.",
     "EXTENDED_DESCRIPTION": [
       "Nimm die champ:Offensivhaltung an.",
       "Nimm die champ:Defensivhaltung an."

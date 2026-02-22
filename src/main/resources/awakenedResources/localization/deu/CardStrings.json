@@ -283,7 +283,7 @@
   },
   "awakened:Gather": {
     "NAME": "Ansammeln",
-    "DESCRIPTION": "Erhalte !B! Block. NL awakened:Chor: Schnapp dir eine Karte aus dem Abwurfstapel."
+    "DESCRIPTION": "Erhalte !B! Block. NL awakened:Chor: Schnappe eine Karte aus dem Abwurfstapel."
   },
   "awakened:TheTower": {
     "NAME": "Der Turm",
@@ -298,8 +298,8 @@
   },
   "awakened:MiddenHeap": {
     "NAME": "Misthaufen",
-    "DESCRIPTION": "Erhalte !B! Block. NL Schnapp dir !M! Status oder Fluch vom Nachzieh- oder Abwurfstapel.",
-    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Schnapp dir !M! Status- oder *Fluchkarten vom Nachzieh- oder Abwurfstapel.",
+    "DESCRIPTION": "Erhalte !B! Block. NL Schnappe !M! Status oder Fluch vom Nachzieh- oder Abwurfstapel.",
+    "UPGRADE_DESCRIPTION": "Erhalte !B! Block. NL Schnappe !M! Status- oder *Fluchkarten vom Nachzieh- oder Abwurfstapel.",
     "EXTENDED_DESCRIPTION": [
       "Nimm eine Karte auf die Hand.",
       "Nimm Karten auf die Hand."

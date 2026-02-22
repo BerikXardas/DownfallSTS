@@ -42,8 +42,8 @@
   "sneckomod:OverwhelmingPresencePower": {
     "NAME": "Überläufer",
     "DESCRIPTIONS": [
-      "Wenn du das erste Mal im Zug eine Karte einer #yFremdklasse spielst, ziehe #b1 Karte.",
-      "Wenn du das erste Mal im Zug eine Karte einer #yFremdklasse spielst, ziehe #b ",
+      "Wenn du das erste Mal im Zug eine #yfremde Karte spielst, ziehe #b1 Karte.",
+      "Wenn du das erste Mal im Zug eine #yfremde Karte spielst, ziehe #b ",
       " Karten."
     ]
   },
@@ -66,17 +66,17 @@
   "sneckomod:SnakeEyesPower": {
     "NAME": "Schlangenaugen",
     "DESCRIPTIONS": [
-      "In diesem Zug spielst du deine nächste Karte einer #yFremdklasse doppelt.",
+      "In diesem Zug spielst du deine nächste #yfremde Karte doppelt.",
       "In diesem Zug spielst du deine nächsten #b",
-      " Karten einer #yFremdklasse doppelt."
+      " #yfremden Karten doppelt."
     ]
   },
   "sneckomod:UnendingSupplyPower": {
     "NAME": "Exotischer Vorrat",
     "DESCRIPTIONS": [
       "Nimm zu Beginn jedes Zuges #b",
-      "Nimm zu Beginn jedes Zuges ein #yEcho einer zufälligen Karte einer #yFremdklasse auf die Hand.",
-      " #yEchos von zufälligen Karten aus #yFremdklassen auf die Hand."
+      "Nimm zu Beginn jedes Zuges ein #yEcho einer zufälligen #yfremden Karte auf die Hand.",
+      " #yEchos von zufälligen #yfremden Karten auf die Hand."
     ]
   },
   "sneckomod:UnknownUpgradedPostCombatPower": {

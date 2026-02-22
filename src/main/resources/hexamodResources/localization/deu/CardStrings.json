@@ -298,8 +298,8 @@
   },
   "hexamod:Rewind": {
     "NAME": "Zurückspulen",
-    "DESCRIPTION": "Bewege dich Hexamod:rückwärts. NL Schnapp dir eine Karte vom Abwurfstapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Bewege dich Hexamod:rückwärts. NL Schnapp dir !M! Karten vom Abwurfstapel. NL Erschöpft."
+    "DESCRIPTION": "Bewege dich Hexamod:rückwärts. NL Schnappe eine Karte vom Abwurfstapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Bewege dich Hexamod:rückwärts. NL Schnappe !M! Karten vom Abwurfstapel. NL Erschöpft."
   },
   "hexamod:Sear": {
     "NAME": "Versengen",
@@ -457,8 +457,8 @@
   },
   "hexamod:SeventhEye": {
     "NAME": "Siebtes Auge",
-    "DESCRIPTION": "Schnapp dir eine Karte vom Nachziehstapel. NL Spring auf eine zufällige Geisterflamme. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Schnapp dir eine Karte vom Nachziehstapel. NL Spring auf eine zufällige Geisterflamme. NL Erschöpft."
+    "DESCRIPTION": "Schnappe eine Karte vom Nachziehstapel. NL Spring auf eine zufällige Geisterflamme. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Schnappe eine Karte vom Nachziehstapel. NL Spring auf eine zufällige Geisterflamme. NL Erschöpft."
   },
   "hexamod:FlameDevourer": {
     "NAME": "Pyrovor",

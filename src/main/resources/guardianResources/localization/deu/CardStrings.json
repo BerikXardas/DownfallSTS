@@ -441,7 +441,7 @@
   },
   "Guardian:BodySlam": {
     "NAME": "Körpereinsatz",
-    "DESCRIPTION": "Erhalte !B! Block. NL Füge Schaden in Höhe deines aktuellen Blocks zu.",
+    "DESCRIPTION": "Erhalte !B! Block. NL Füge Schaden in Höhe deines aktuellen *Blocks zu.",
     "UPGRADE_DESCRIPTION": " NL (Fügt !D! Schaden zu.)"
   },
   "Guardian:SecondStrike": {

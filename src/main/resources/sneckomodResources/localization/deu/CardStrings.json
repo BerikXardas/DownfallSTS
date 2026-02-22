@@ -35,8 +35,8 @@
   },
   "sneckomod:DefensiveFlair": {
     "NAME": "Kreative Abwehr",
-    "DESCRIPTION": "Erhalte !B! Block. NL Block wird für jede Handkarte aus sneckomod:Fremdklassen um !M! erhöht. NL sneckomod:Geschenk: Ungewöhnlich.",
-    "DESCRIPTION_BATTLE": "Erhalte !B! Block. NL Block wird für jede Handkarte aus sneckomod:Fremdklassen um !M! erhöht."
+    "DESCRIPTION": "Erhalte !B! Block. NL Block wird für jede sneckomod:fremde Handkarte um !M! erhöht. NL sneckomod:Geschenk: Ungewöhnlich.",
+    "DESCRIPTION_BATTLE": "Erhalte !B! Block. NL Block wird für jede sneckomod:fremde Handkarte um !M! erhöht."
   },
   "sneckomod:DiceBlock": {
     "NAME": "Würfelblock",
@@ -79,7 +79,7 @@
   },
   "sneckomod:IronFang": {
     "NAME": "Eisenmaul",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu wende !M! Schwach auf sie an."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu und wende !M! Schwach auf sie an."
   },
   "sneckomod:ImprovisedAttack": {
     "NAME": "Improvisationshieb",
@@ -109,10 +109,10 @@
   },
   "sneckomod:SnakeEyes": {
     "NAME": "Schlangenaugen",
-    "DESCRIPTION": "Deine nächste Karte einer sneckomod:Fremdklasse in diesem Zug wird zweimal ausgespielt. NL sneckomod:Geschenk: Seltene Fertigkeit.",
-    "UPGRADE_DESCRIPTION": "Deine nächsten 2 Karten aus sneckomod:Fremdklassen in diesem Zug werden zweimal ausgespielt. NL sneckomod:Geschenk: Seltene Fertigkeit.",
-    "DESCRIPTION_BATTLE": "Deine nächste Karte einer sneckomod:Fremdklasse in diesem Zug wird zweimal ausgespielt.",
-    "UPGRADE_DESCRIPTION_BATTLE": "Deine nächsten 2 Karten aus sneckomod:Fremdklassen in diesem Zug werden zweimal ausgespielt."
+    "DESCRIPTION": "Deine nächste sneckomod:fremde Karte in diesem Zug wird zweimal ausgespielt. NL sneckomod:Geschenk: Seltene Fertigkeit.",
+    "UPGRADE_DESCRIPTION": "Deine nächsten 2 sneckomod:fremden Karten in diesem Zug werden zweimal ausgespielt. NL sneckomod:Geschenk: Seltene Fertigkeit.",
+    "DESCRIPTION_BATTLE": "Deine nächste sneckomod:fremde Karte in diesem Zug wird zweimal ausgespielt.",
+    "UPGRADE_DESCRIPTION_BATTLE": "Deine nächsten 2 sneckomod:fremden Karten in diesem Zug werden zweimal ausgespielt."
   },
   "sneckomod:Memorize": {
     "NAME": "Merken",
@@ -147,8 +147,8 @@
   },
   "sneckomod:OverwhelmingPresence": {
     "NAME": "Überläufer",
-    "DESCRIPTION": "Flüchtig. NL Wenn du das erste Mal im Zug eine Karte einer sneckomod:Fremdklasse spielst, ziehe eine Karte.",
-    "UPGRADE_DESCRIPTION": "Wenn du das erste Mal im Zug eine Karte einer sneckomod:Fremdklasse spielst, ziehe eine Karte."
+    "DESCRIPTION": "Flüchtig. NL Wenn du das erste Mal im Zug eine sneckomod:fremde Karte spielst, ziehe eine Karte.",
+    "UPGRADE_DESCRIPTION": "Wenn du das erste Mal im Zug eine sneckomod:fremde Karte spielst, ziehe eine Karte."
   },
   "sneckomod:RiskySword": {
     "NAME": "Irrläufer",
@@ -195,7 +195,7 @@
   },
   "sneckomod:SerpentIdol": {
     "NAME": "Viperngötze",
-    "DESCRIPTION": "Nimm 1 von !M! zufälligen Karten aus sneckomod:Fremdklassen auf die Hand. Sie kostet diesen Zug 0. NL Erschöpft."
+    "DESCRIPTION": "Nimm 1 von !M! zufälligen sneckomod:fremden Karten auf die Hand. Sie kostet diesen Zug 0. NL Erschöpft."
   },
   "sneckomod:SerpentMind": {
     "NAME": "Exotische Form",
@@ -206,8 +206,8 @@
   },
   "sneckomod:SlitherThrough": {
     "NAME": "Durchschlängeln",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Handkarten aus sneckomod:Fremdklassen kosten diesen Zug !M! weniger. NL sneckomod:Geschenk: Ungewöhnlich.",
-    "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Handkarten aus sneckomod:Fremdklassen kosten diesen Zug !M! weniger."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL sneckomod:Fremde Handkarten kosten diesen Zug !M! weniger. NL sneckomod:Geschenk: Ungewöhnlich.",
+    "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL sneckomod:Fremde Handkarten kosten diesen Zug !M! weniger."
   },
   "sneckomod:SnakeSap": {
     "NAME": "Saugbiss",
@@ -235,7 +235,7 @@
   },
   "sneckomod:SoulDraw": {
     "NAME": "Seelenextrakt",
-    "DESCRIPTION": "Erhalte !M! zufällige Karten aus sneckomod:Fremdklassen. NL Sie erhalten Behalten. NL Erschöpft."
+    "DESCRIPTION": "Erhalte !M! zufällige sneckomod:fremde Karten. NL Sie erhalten Behalten. NL Erschöpft."
   },
   "sneckomod:SoulExchange": {
     "NAME": "Seelentausch",
@@ -297,8 +297,8 @@
   },
   "sneckomod:UnendingSupply": {
     "NAME": "Exotischer Vorrat",
-    "DESCRIPTION": "Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen Klasse einer sneckomod:Fremdklasse.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen Klasse einer sneckomod:Fremdklasse."
+    "DESCRIPTION": "Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen sneckomod:fremden Karte.",
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Erhalte zu Beginn jedes Zuges ein gremlin:Echo einer zufälligen sneckomod:fremden Karte."
 },
   "sneckomod:Unknown": {
     "NAME": "??? Basis",
@@ -458,11 +458,11 @@
   },
   "sneckomod:CrystalBoomerang": {
     "NAME": "Bunter Bumerang",
-    "DESCRIPTION": "Schnapp dir eine Karte vom Abwurfstapel. NL Gehört sie zu einer sneckomod:Fremdklasse, dann erhalte !B! Block."
+    "DESCRIPTION": "Schnappe eine Karte vom Abwurfstapel. NL Ist sie sneckomod:fremd, dann erhalte !B! Block."
   },
   "sneckomod:ViperEssence": {
     "NAME": "Vipernessenz",
-    "DESCRIPTION": "Flüchtig. NL sneckomod:Fremdklasse. NL Erhalte !M! Stärke."
+    "DESCRIPTION": "Flüchtig. NL sneckomod:Fremd. NL Erhalte !M! Stärke."
   },
   "sneckomod:Amass": {
     "NAME": "Anhäufen",
@@ -481,8 +481,8 @@
   },
   "sneckomod:WideSting": {
     "NAME": "Fernkampf",
-    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Verbessere alle Karten aus sneckomod:Fremdklassen in deiner Hand. NL sneckomod:Geschenk: Gewöhnlich.",
-    "DESCRIPTION_BATTLE": "Füge ALLEN Gegnern !D! Schaden zu. NL Verbessere alle Karten aus sneckomod:Fremdklassen in deiner Hand."
+    "DESCRIPTION": "Füge ALLEN Gegnern !D! Schaden zu. NL Verbessere alle sneckomod:fremden Handkarten. NL sneckomod:Geschenk: Gewöhnlich.",
+    "DESCRIPTION_BATTLE": "Füge ALLEN Gegnern !D! Schaden zu. NL Verbessere alle sneckomod:fremden Handkarten."
   },
   "sneckomod:GildedShield": {
     "NAME": "Sneckoschuppe",
@@ -498,13 +498,13 @@
   },
   "sneckomod:OtherworldlySlash": {
     "NAME": "Exotischer Hieb",
-    "DESCRIPTION": "Füge !D! Schaden zu - zweimal, wenn du in diesem Zug eine Karte einer sneckomod:Fremdklasse gespielt hast. NL sneckomod:Geschenk: Gewöhnlich.",
-    "DESCRIPTION_BATTLE": "Füge !D! Schaden - zweimal, wenn du in diesem Zug eine Karte einer sneckomod:Fremdklasse gespielt hast."
+    "DESCRIPTION": "Füge !D! Schaden zu - zweimal, wenn du in diesem Zug eine sneckomod:fremde Karte gespielt hast. NL sneckomod:Geschenk: Gewöhnlich.",
+    "DESCRIPTION_BATTLE": "Füge !D! Schaden - zweimal, wenn du in diesem Zug eine sneckomod:fremde Karte gespielt hast."
   },
   "sneckomod:BeyondArmor": {
     "NAME": "Fremde Rüstung",
-    "DESCRIPTION": "Erhalte !B! Block. NL Nimm !M! zufällige Karten aus sneckomod:Fremdklassen vom Nachziehstapel auf die Hand. NL sneckomod:Geschenk: Gewöhnlich.",
-    "DESCRIPTION_BATTLE": "Erhalte !B! Block. NL Nimm !M! zufällige Karten aus sneckomod:Fremdklassen vom Nachziehstapel auf die Hand."
+    "DESCRIPTION": "Erhalte !B! Block. NL Schnappe !M! zufällige sneckomod:fremde Karten vom Nachziehstapel. NL sneckomod:Geschenk: Gewöhnlich.",
+    "DESCRIPTION_BATTLE": "Erhalte !B! Block. NL Schnappe !M! zufällige sneckomod:fremde Karten vom Nachziehstapel."
   },
   "sneckomod:BlunderGuard": {
     "NAME": "Schwere Geschütze",
@@ -550,12 +550,12 @@
   },
   "sneckomod:ComboString": {
     "NAME": "Verkettung",
-    "DESCRIPTION": "Füge für jede Karte einer sneckomod:Fremdklasse, die in diesem Zug gespielt wurde, !D! Schaden zu. NL sneckomod:Geschenk: Ungewöhnlich.",
+    "DESCRIPTION": "Füge für jede sneckomod:fremde Karte, die in diesem Zug gespielt wurde, !D! Schaden zu. NL sneckomod:Geschenk: Ungewöhnlich.",
     "EXTENDED_DESCRIPTION": [
       " NL (Trifft ",
       " Mal.)"
     ],
-    "DESCRIPTION_BATTLE": "Füge für jede Karte einer sneckomod:Fremdklasse, die in diesem Zug gespielt wurde, !D! Schaden zu."
+    "DESCRIPTION_BATTLE": "Füge für jede sneckomod:fremde Karte, die in diesem Zug gespielt wurde, !D! Schaden zu."
   },
   "sneckomod:ThrowingCards": {
     "NAME": "Kartenwurf",
@@ -587,8 +587,8 @@
     "DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Wiederhole das für jede verschiedene Schlag Karte, die in diesem Kampf gespielt wurde.",
     "UPGRADE_DESCRIPTION_BATTLE": "Füge !D! Schaden zu. NL Wiederhole das für jede verschiedene Schlag Karte, die in diesem Kampf gespielt wurde.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Trifft ",
-      " Mal zusätzlich.)"
+      " NL (Trifft zusätzlich ",
+      " Mal.)"
     ]
   },
   "sneckomod:AceOfWands": {

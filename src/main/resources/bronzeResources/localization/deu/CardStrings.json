@@ -207,8 +207,8 @@
   },
   "bronze:FindAndReplace": {
     "NAME": "Suchen-Ersetzen",
-    "DESCRIPTION": "Schnapp dir eine Karte vom Nachzieh- oder Abwurfstapel und lege ein Benommen an ihrer Stelle ein. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Schnapp dir eine Karte vom Nachzieh- oder Abwurfstapel. NL Erschöpft.",
+    "DESCRIPTION": "Schnappe eine Karte vom Nachzieh- oder Abwurfstapel und lege ein Benommen an ihrer Stelle ein. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Schnappe eine Karte vom Nachzieh- oder Abwurfstapel. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Wähle eine Karte."
     ]

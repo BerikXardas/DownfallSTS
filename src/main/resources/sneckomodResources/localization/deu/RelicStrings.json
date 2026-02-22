@@ -47,7 +47,7 @@
     "NAME": "Boosterpack",
     "FLAVOR": "Noch Ungeöffnet.",
     "DESCRIPTIONS": [
-      "Erhalte beim Aufheben eine #yseltene Karte einer #ysneckomod:Fremdklasse [REMOVE_SPACE]."
+      "Nimm beim Aufheben #b1 von #b3 #yseltenen #fremden Karten in dein Deck auf."
     ]
   },
   "sneckomod:SleevedAce": {
@@ -61,7 +61,7 @@
     "NAME": "Unidentifiziertes Ei",
     "FLAVOR": "Was wird daraus schlüpfen? Zahle $1000 um zuzusehen.",
     "DESCRIPTIONS": [
-      "Jede Karte einer #ysneckomod:Fremdklasse [REMOVE_SPACE], die du erhältst, ist #yverbessert [REMOVE_SPACE]. #yVerbessere beim Aufheben #b2 zufällige Karten aus #yFremdklassen [REMOVE_SPACE]."
+      "Jede #ysneckomod:fremde Karte, die du erhältst, ist #yverbessert [REMOVE_SPACE]. #yVerbessere beim Aufheben #b2 zufällige #yfremde Karten."
     ]
   },
   "sneckomod:SuperSneckoEye": {
@@ -107,14 +107,14 @@
     "NAME": "Gütesiegel",
     "FLAVOR": "Ich bin der Eiserne, und das ist mein Lieblingsrelikt im Spire! - Werbebroschüre des Händlers",
     "DESCRIPTIONS": [
-      "Nimm beim Aufheben #b1 von #b5 ungewöhnlichen #yMachtkarten einer #ysneckomod:Fremdklasse in dein Deck auf."
+      "Nimm beim Aufheben #b1 von #b5 ungewöhnlichen #ysneckomod:fremden #yMachtkarten in dein Deck auf."
     ]
   },
   "sneckomod:SneckoBoss": {
     "NAME": "Glücksbringer",
     "FLAVOR": "Sei deines Glückes Schmied.",
     "DESCRIPTIONS": [
-      "Wähle beim Aufheben #b1 von #b3 #yCharakteren [REMOVE_SPACE]. Für diese Klasse: Wähle #b3 #yverbesserte ungewöhnliche Karten und #b2 seltene Karten. Erhalte nach jedem Kampf eine zusätzliche Kartenbelohnung.",
+      "Wähle beim Aufheben #b1 von #b3 #yCharakteren [REMOVE_SPACE]. Für diese Klasse: Nimm #b3 #yverbesserte ungewöhnliche und #b2 seltene Karten in dein Deck auf. Erhalte nach jedem Kampf eine zusätzliche Kartenbelohnung.",
       "Nimm beim Aufheben #b3 verbesserte ungewöhnliche und #b2 seltene ",
       " Karten in dein Deck auf. Erhalte nach jedem Kampf eine zusätzliche ",
       " Kartenbelohnung."

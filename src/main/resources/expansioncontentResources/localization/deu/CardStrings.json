@@ -68,15 +68,15 @@
 
   "expansioncontent:StudyTheSpire": {
     "NAME": "Spire-Studien",
-    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten !M! Züge jeweils eine zufällige *Boss Karte. Sie kosten 0.",
-    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten !M! Züge jeweils eine zufällige *verbesserte *Boss Karte. Sie kosten 0."
+    "DESCRIPTION": "Erhalte zu Beginn deiner nächsten !M! Züge eine zufällige *Boss Karte. Sie kosten 0.",
+    "UPGRADE_DESCRIPTION": "Erhalte zu Beginn deiner nächsten !M! Züge eine zufällige *verbesserte *Boss Karte. Sie kosten 0."
   },
   "expansioncontent:QuickStudy": {
     "NAME": "Schnellstudien",
     "DESCRIPTION": "Wähle 1 aus 3 zufälligen *Boss Karten und nimm sie auf die Hand. Sie kostet 0, bis du sie spielst. Erschöpft.",
     "UPGRADE_DESCRIPTION": "Wähle 1 aus 3 zufälligen *verbesserten *Boss Karten und nimm sie auf die Hand. Sie kostet 0, bis du sie spielst. Erschöpft.",
     "EXTENDED_DESCRIPTION": [
-      "Wähle eine Boss-Karte."
+      "Wähle eine Boss Karte."
     ]
   },
   "expansioncontent:DashGenerateEvil": {
@@ -162,7 +162,7 @@
   },
   "expansioncontent:SuperBodyCrash": {
     "NAME": "Bodycheck",
-    "DESCRIPTION": "Erhalte !B! Block. NL Füge Schaden in Höhe deines aktuellen Blocks zu.",
+    "DESCRIPTION": "Erhalte !B! Block. NL Füge Schaden in Höhe deines aktuellen *Blocks zu.",
     "UPGRADE_DESCRIPTION": " NL (Fügt !D! Schaden zu.)"
   },
   "expansioncontent:SuperEtherStep": {
@@ -193,7 +193,7 @@
   },
   "expansioncontent:Reverie": {
     "NAME": "Déjà-vu",
-    "DESCRIPTION": "Schnapp dir zu Beginn deines Zuges eine der !M! obersten Karten des Abwurfstapels."
+    "DESCRIPTION": "Schnappe zu Beginn deines Zuges eine der !M! obersten Karten des Abwurfstapels."
   },
   "expansioncontent:ExploitVulnerability": {
     "NAME": "Donu-Strahl",

@@ -301,7 +301,7 @@
   },
   "Slimebound:SlimeTap": {
     "NAME": "Schleimquelle",
-    "DESCRIPTION": "slimeboundmod:Absorbiere deinen führenden Schleim um [E] zu erhalten und NL !M! Karte zu ziehen. NL Erschöpft.",
+    "DESCRIPTION": "slimeboundmod:Absorbiere deinen führenden Schleim um [E] zu erhalten und NL !M! Karten zu ziehen. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "slimeboundmod:Absorbiere deinen führenden Schleim um [E] [E] zu erhalten und NL !M! Karten zu ziehen. NL Erschöpft.",
     "EXTENDED_DESCRIPTION": [
       "Brauche... Untergebene..."
